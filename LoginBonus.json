@@ -1,4 +1,4 @@
-{"kousin":"2020/04/24","1":{
+{"0":{"kousin":"2020/04/24"},"1":{
     "loginBonusId":1, "loginBonusType":"normal", "caption":"通常ログインボーナス", "publishedAt":0, "closedAt":4133948399000, "details":[
       {
         "loginBonusId":1, "days":1, "resourceType":"coin", "quantity":10000, "seq":1, "grantType":"present"

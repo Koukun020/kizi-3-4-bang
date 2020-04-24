@@ -1,4 +1,4 @@
-{"0":{"kousin":"2020/04/24"},"1":{
+{"kousin":"2020/04/24","1":{
     "loginBonusId":1, "loginBonusType":"normal", "caption":"通常ログインボーナス", "publishedAt":0, "closedAt":4133948399000, "details":[
       {
         "loginBonusId":1, "days":1, "resourceType":"coin", "quantity":10000, "seq":1, "grantType":"present"
@@ -2579,7 +2579,7 @@
     ]
   },
   "108":{
-    "loginBonusId":108, "loginBonusType":"event", "caption":"Poppin'."'".'party 1st Album「Poppin'."'".' on!」発売記念ログインキャンペーン", "assetBundleName":"popinon_release", "publishedAt":1548828000000, "closedAt":1549087199000, "details":[
+    "loginBonusId":108, "loginBonusType":"event", "caption":"Poppin''party 1st Album「Poppin'' on!」発売記念ログインキャンペーン", "assetBundleName":"popinon_release", "publishedAt":1548828000000, "closedAt":1549087199000, "details":[
       {
         "loginBonusId":108, "days":1, "resourceType":"star", "quantity":100, "seq":1, "grantType":"present"
       }

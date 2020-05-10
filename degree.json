@@ -1217,8 +1217,8 @@
   },
   "500":{
     "degreeId":500, "seq":600, "baseImageName":"degree_event33_point", "rank":"2", "degreeName":"称号 2位", "degreeType":"event_point", "iconImageName":"event_point_icon", "description":"「はじめての！？ウィンタースポーツ」イベントで2位に入賞"
-  },';
-$garupadegreejson .= '  "501":{
+  },
+  "501":{
     "degreeId":501, "seq":601, "baseImageName":"degree_event33_point", "rank":"3", "degreeName":"称号 3位", "degreeType":"event_point", "iconImageName":"event_point_icon", "description":"「はじめての！？ウィンタースポーツ」イベントで3位に入賞"
   },
   "502":{

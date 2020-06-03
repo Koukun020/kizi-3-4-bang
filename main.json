@@ -7,8 +7,8 @@
  "appversion":"4.2.0",
  "appiconlink":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/30/17/76/30177632-3240-6cbb-efe8-380dce9db9f7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/246x0w.png",
  "appapdateinfo":"【アップデート内容】<br>・ライブをクリアした際に、報酬を獲得できる「ライブボーナス」機能を追加<br>・「バンド用スキル練習チケット」の追加<br><br>【不具合修正】<br>・細かな不具合の解消<br><br>※詳しくは、アプリ内のお知らせをご覧ください",
- "appapdateversion":"N/A",
- "appapdatedate":"",
+ "appapdateversion":"4.3.0",
+ "appapdatedate":"2020/06/09",
  "assetbundleinfoversion":"4.2.0.200",
  "assetbundleinfodate":"2020/05/31",
  "masterversion":"4.2.0.200",
@@ -27,6 +27,7 @@
     }
   },
  "backup":[
+  {"appapdateversion":"N/A","appapdatedate":"","backupdate":"2020/06/03","backuptype":5},
   {"assetbundleinfoversion":"4.2.0.150","assetbundleinfodate":"2020/05/27","masterversion":"4.2.0.150","masterdate":"2020/05/27","dataversion":"4.2.0.150","datadate":"2020/05/27","aski":"Hz7FdV39Tg","backupdate":"2020/05/31","backuptype":1},
   {"assetbundleinfoversion":"4.2.0.100","assetbundleinfodate":"2020/05/21","masterversion":"4.2.0.100","masterdate":"2020/05/21","dataversion":"4.2.0.100","datadate":"2020/05/21","aski":"Hz7FdV39Tg","backupdate":"2020/05/27","backuptype":1},
   {"assetbundleinfoversion":"4.2.0.50","assetbundleinfodate":"2020/05/20","masterversion":"4.2.0.50","masterdate":"2020/05/20","dataversion":"4.2.0.50","datadate":"2020/05/20","aski":"Hz7FdV39Tg","backupdate":"2020/05/21","backuptype":1},

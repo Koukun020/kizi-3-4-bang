@@ -331,5 +331,8 @@
   },
   {
     "eventId":116, "introduction":"再び全員揃ってNFOをプレイすることになったRoselia。限定イベントを無事クリアして、ドラゴンから花嫁を守り抜くことはできるのか――！？", "resourceSetName":"characters/resourceset/res025036", "resourceFileName":"card_normal", "logoResourceSetName":"event/roselia_wedding/images", "logoResourceFileName":"logo"
+  },
+  {
+    "eventId":117,"introduction":""
   }
 ]

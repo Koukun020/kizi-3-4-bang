@@ -1,4 +1,4 @@
-4.3.0.100
+4.3.0.200
 actionset/group0r
 actionset/group0@557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9	"StartApp(ﾉ・・8ｾ{・
 actionset/group1r
@@ -1390,8 +1390,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 birthday/ako_2019/openingimages@1aeb2493404ac048e0fd7c8ab3d86b9ec9bb0ddf3146fdd3c49e7dce54214e06	"AsNeeded(ｾ帶・8ﾐﾆC・
 birthday/ako_2019/topscreen~
 birthday/ako_2019/topscreen@a90c09e410cfc9365623f1904dff171ebbd74aafb48bd977fb2c6dbbe03cdb32	"AsNeeded(ﾛ・8剪S・
-birthday/animationbasey
-birthday/animationbase@73cf975109e7ac50fb5b31daa2e182d1779e252710f32486673c7696cd65eac1	"StartApp(ﾜﾍ潜8・G｣
+birthday/animationbasex
+birthday/animationbase@ba7bc1ca5c922e3553107c83acf36a64779e252710f32486673c7696cd65eac1	"StartApp(誧ｴF8劇G｣
 birthday/arisa_2018/topscreen・
 birthday/arisa_2018/topscreen@27376ba74d6deacb707121316651dc44e6c4b728b2face90cfbbdf30dc92da84	"AsNeeded(ﾌ囃・8・・ｪ
 !birthday/arisa_2019/openingimages・
@@ -1505,7 +1505,11 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
  birthday/moca_2019/openingimages・
  birthday/moca_2019/openingimages@07ecc5fe83d91dac9fe2849abd92e09288b8d4819c18cca859c33d1201f7ffd0	"AsNeeded(ｧｬﾝ・8唾A・
 birthday/moca_2019/topscreen~
-birthday/moca_2019/topscreen@0c4ab0624fe09f56b39e9d8bd227bec28e98fa245e51090d2ffbd8266371c88d	"AsNeeded(・・8ﾅｱU・
+birthday/moca_2019/topscreen@0c4ab0624fe09f56b39e9d8bd227bec28e98fa245e51090d2ffbd8266371c88d	"AsNeeded(・・8ﾅｱUｬ
+"birthday/nanami_2020/openingimages・
+"birthday/nanami_2020/openingimages@32b48dd5dbcb99845afe1c920bbefc0cc982911a3bfb47660d1e08cb96e6c9f8	"AsNeeded(Κﾂ・8ﾙ・､
+birthday/nanami_2020/topscreen・
+birthday/nanami_2020/topscreen@df227784be23f859d482c62caf2aa714b64baaa03ef32c6ef3c7df857f2d180b	"AsNeeded(ﾛﾙ瑩8ｼ・・
 birthday/ran_2018/topscreen~
 birthday/ran_2018/topscreen@4042b57180795a1d4c8f3454a7284b104a2f7fb0e290ce0c784f229feae811ef	"AsNeeded(ﾀﾉ・8狛・ｦ
 birthday/ran_2019/openingimages・
@@ -10266,6 +10270,12 @@ $event/student_council_hane/topscreen@10cfa6b7f9977ab34d367195f76a7bbdb3e8267d6
 gacha/screen/gacha570@b206d1ae9afe119fec0f7842f322f7707b086b49eaa30e017b0e71c5e111dae5	"AsNeeded(ｩｯﾌｨ2effect/common_materials8ﾌﾎﾐ・
 gacha/screen/gacha571y
 gacha/screen/gacha571@a76a9ddb556242b5d45d691f3eceea77e9723c4781820d475a6e28a1f0d05beb	"AsNeeded(ｆﾆ・8ｬ痳ｫ
+gacha/screen/gacha574・
+gacha/screen/gacha574@6ddbfcc2a08ba4bb5a75455b914bda9ea252164554e98ff01e201f20fd2c39eb	"AsNeeded(葢ｷ2effect/common_materials8顏ﾔｪ
+gacha/screen/gacha575・
+gacha/screen/gacha575@a01b7520cc20232ec726292f30272ba007a8a9eeb21bdbbacda93794f94287e4	"AsNeeded(甥・2effect/common_materials8ﾋﾅhｬ
+gacha/screen/gacha576・
+gacha/screen/gacha576@94fc94362180dde463308c8d52288ef932a234c13438a30271699b5f239f3a94	"AsNeeded(ﾃ挫・2effect/common_materials8ﾏｫ
 gacha/screen/gacha583・
 gacha/screen/gacha583@4608ae807d0027b08b6b62a0c16729d2cc372afc5169d021031f6bdcd6b37054	"AsNeeded(・Σ2effect/common_materials8ﾈ孥・
 gacha/screen/gacha7v
@@ -10343,7 +10353,7 @@ $genericanimation/dream_festival_2004@8d1ac0a7615026c4fbdcd9850eee47e1ab95a7cc2
 
 homebannern
 
-homebanner@5625f9ce3f1305699a3f263206206d0c578e1801cf37bea8d19805e333aba690	"StartApp(楝ｱｩ8跨ｹ・
+homebanner@39a9d47312eabdef46f63761d1fd393d578e1801cf37bea8d19805e333aba690	"StartApp(蜻ﾓｫ8ﾀﾄﾂ・
 ingameskin/bgskin/skin00{
 ingameskin/bgskin/skin00@c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7	"StartApp(ｸ贅ﾘ8｢榎・
 ingameskin/bgskin/skin02{

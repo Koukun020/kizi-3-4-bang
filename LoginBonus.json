@@ -1,4 +1,4 @@
-{"0":{"kousin":"2020/05/03"},"1":{
+{"0":{"kousin":"2020/06/12"},"1":{
     "loginBonusId":1, "loginBonusType":"normal", "caption":"通常ログインボーナス", "publishedAt":0, "closedAt":4133948399000, "details":[
       {
         "loginBonusId":1, "days":1, "resourceType":"coin", "quantity":10000, "seq":1, "grantType":"present"
@@ -5185,6 +5185,19 @@
       },
       {
         "loginBonusId":237, "days":10, "resourceType":"item", "resourceId":12, "quantity":10, "seq":5, "grantType":"present"
+      }
+    ],
+    "assetMap":[
+
+    ]
+  },
+  "238":{
+    "loginBonusId":238, "loginBonusType":"birthday", "caption":"七深誕生日", "assetBundleName":"nanami_2020", "publishedAt":1592233200000, "closedAt":1592319599000, "details":[
+      {
+        "loginBonusId":238, "days":1, "resourceType":"star", "quantity":50, "seq":1, "grantType":"direct"
+      },
+      {
+        "loginBonusId":238, "days":1, "resourceType":"practice_ticket", "resourceId":36, "quantity":1, "seq":2, "grantType":"direct"
       }
     ],
     "assetMap":[

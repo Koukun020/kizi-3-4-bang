@@ -9,12 +9,12 @@
  "appapdateinfo":"【アップデート内容】<br>・新バンド「RAISE A SUILEN」がアプリ内に登場<br>・「RAISE A SUILEN」の追加に伴う、一部画面表示の調整<br>・「RAISE A SUILEN」の追加に伴う、エリアアイテムの設置個所の名称変更<br>・「RAISE A SUILEN」の追加に伴う、エリアアイテムを設置した際のダイアログの一部文言調整<br>・近日中に一時的に公開を予定している新機能の公開準備<br>・イベントストーリー内にてMorfonicaのバンドストーリー選択時に表示される背景画像の画質調整<br><br>【機能改善】<br>・iPhone SE（第2世代）を対象に「タップ時振動」機能の対応<br><br>【不具合修正】<br>・細かな不具合の解消<br><br>※詳しくは、アプリ内のお知らせをご覧ください",
  "appapdateversion":"N/A",
  "appapdatedate":"",
- "assetbundleinfoversion":"4.3.0.200",
- "assetbundleinfodate":"2020/06/12",
- "masterversion":"4.3.0.200",
- "masterdate":"2020/06/12",
- "dataversion":"4.3.0.200",
- "datadate":"2020/06/12",
+ "assetbundleinfoversion":"4.3.0.250",
+ "assetbundleinfodate":"2020/06/15",
+ "masterversion":"4.3.0.250",
+ "masterdate":"2020/06/15",
+ "dataversion":"4.3.0.250",
+ "datadate":"2020/06/15",
  "aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197",
  "assetbundleinfomap":
   {
@@ -22,11 +22,13 @@
    "file":
     {
      "name":"AssetBundleInfo.txt",
-     "ver":"4.3.0.200",
-     "date":"2020/06/12"
+     "ver":"4.3.0.250",
+     "date":"2020/06/15"
     }
   },
  "backup":[
+  {"assetbundleinfoversion":"4.3.0.200","assetbundleinfodate":"2020/06/12","masterversion":"4.3.0.220","masterdate":"2020/06/12","dataversion":"4.3.0.200","datadate":"2020/06/12","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/15","backuptype":1},
+  {"masterversion":"4.3.0.200","masterdate":"2020/06/12","backupdate":"2020/06/15","backuptype":3},
   {"assetbundleinfoversion":"4.3.0.100","assetbundleinfodate":"2020/06/10","masterversion":"4.3.0.100","masterdate":"2020/06/10","dataversion":"4.3.0.100","datadate":"2020/06/10","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/12","backuptype":1},
   {"assetbundleinfoversion":"4.3.0.50","assetbundleinfodate":"2020/06/09","masterversion":"4.3.0.50","masterdate":"2020/06/09","dataversion":"4.3.0.50","datadate":"2020/06/09","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/10","backuptype":1},
   {"appdate":"2020/05/20","appversion":"4.2.0","appiconlink":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/30/17/76/30177632-3240-6cbb-efe8-380dce9db9f7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/246x0w.png","appapdateinfo":"【アップデート内容】<br>・ライブをクリアした際に、報酬を獲得できる「ライブボーナス」機能を追加<br>・「バンド用スキル練習チケット」の追加<br><br>【不具合修正】<br>・細かな不具合の解消<br><br>※詳しくは、アプリ内のお知らせをご覧ください","appapdateversion":"4.3.0","appapdatedate":"2020/06/09","assetbundleinfoversion":"4.2.0.200","assetbundleinfodate":"2020/05/31","masterversion":"4.2.0.250","masterdate":"2020/06/09","dataversion":"4.2.0.200","datadate":"2020/05/31","aski":"Hz7FdV39Tg","backupdate":"2020/06/09","backuptype":0},

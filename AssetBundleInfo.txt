@@ -1,4 +1,4 @@
-4.3.0.250
+4.3.0.300
 actionset/group0r
 actionset/group0@557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9	"StartApp(ﾉ・・8ｾ{・
 actionset/group1r
@@ -8654,7 +8654,7 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 +comic/comic_singleframe_thumbnail/comic_100・
 +comic/comic_singleframe_thumbnail/comic_100@8453a8123c714abf06fb480fa375582e4e6d4a5821b2c28e9e89084a8b09d736	"AsNeeded(ｭ勦・8ﾄ・・
 commenthomebannert
-commenthomebanner@f28375c59a19692c6030dd586c89d9b8f4dada8fe80e61e17c2df08a66b4bf30	"AsNeeded(松8ﾅ・・
+commenthomebanner@37af8d16128a481c1d630a600d4c6120f4dada8fe80e61e17c2df08a66b4bf30	"AsNeeded(芻ｽ8咒・
 deco/frame/deco_frame000z
 deco/frame/deco_frame000@e2af73dc0202893a8e2c442e662872e58c18fca8d993c0fd9339ad7d1f365b02	"StartApp(ﾊｨ眸8ｧ%・
 deco/frame/deco_frame001z
@@ -10330,6 +10330,8 @@ $genericanimation/dream_festival_2004@8d1ac0a7615026c4fbdcd9850eee47e1ab95a7cc2
 !genericanimation/new_arrival_2003@1e45591a58ee89e2b06fc0a5722c17f58c50270b918a8b0471c24e34898ed4bb	"AsNeeded(ﾉｶﾐｮ2band/animatedlogo/0218ｶ・・
 !genericanimation/new_arrival_2006ﾖ
 !genericanimation/new_arrival_2006@7ad83c540a00aa8831d771830ece0480795e5ed11561640281b78de6b5683e52	"AsNeeded(ｲﾑﾌﾄ2band/animatedlogo/0182band/animatedlogo/0212!genericanimation/new_arrival_20038ﾁ恚	ｨ
+ graphicalinfo/collabo_coin_event・
+ graphicalinfo/collabo_coin_event@fbc3c90d6b03c96e74d847d1194954af521f44add824f5f4e0e517808b12c0df	"AsNeeded(ﾔﾜ8ｱ・ｨ
  graphicalinfo/collabo_maid_slide・
  graphicalinfo/collabo_maid_slide@76a76cc4544ee82ffdc846341f6a9840d94f8ee27b9a0b58586efe06732cfe78	"AsNeeded(菷ｸ・
 8ｪ
@@ -10355,7 +10357,7 @@ $genericanimation/dream_festival_2004@8d1ac0a7615026c4fbdcd9850eee47e1ab95a7cc2
 
 homebannern
 
-homebanner@a0beb5686eef9ccf234f4fb9aad35611578e1801cf37bea8d19805e333aba690	"StartApp(ｹｦｺｨ8ｫﾁﾆ・
+homebanner@9e107903c5406f3ea4b88ad1262bff02578e1801cf37bea8d19805e333aba690	"StartApp(ﾔﾒｷ・8ｶ・・
 ingameskin/bgskin/skin00{
 ingameskin/bgskin/skin00@c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7	"StartApp(ｸ贅ﾘ8｢榎・
 ingameskin/bgskin/skin02{
@@ -10479,7 +10481,8 @@ $ingameskin/judgeskin_tutorial/skin00@77e4b967d6aa336623caaa71ae2c72d7b218a9f6d
 )ingameskin/noteskin_tutorial/skin00sample・
 )ingameskin/noteskin_tutorial/skin00sample@9cc8444c389bf261cfd6525846ebc58793d1eb5733ddf79dc31ecc51f37350ea	"Tutorial(ﾒ伊・8ｵ・・
 ingameskin/stagelightw
-ingameskin/stagelight@60c69c100030910681d861e26102a241bfd701eba717d0128e7f6ef003916729	"AsNeeded(庫8・ﾂ
+ingameskin/stagelight@50d5c9ddb69fbf3bcb16f4df55859a61bfd701eba717d0128e7f6ef003916729	"AsNeeded(・ｷｵ
+8ﾀ;ﾂ
 ingameskin/stageskin/challenge・
 ingameskin/stageskin/challenge@32812fc43c1e7cf6a33d06cc32fde0c333d1c4ff93bee891b08b36362c78c8e3	"AsNeeded(ﾁ・2ingameskin/stageskin/normal8ﾚﾃｺ・
 ingameskin/stageskin/normal
@@ -10508,6 +10511,12 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 8ﾞﾌｿ
 ,limitedmission/banner_limitedmission_special・
 ,limitedmission/banner_limitedmission_special@23567cbec85c1e79c5cba6c35a69c0d466eb7e725017f1984ec2e543c8ed3320	"AsNeeded(ｷﾑﾓ8・・
+limitedpage/coin/imagesz
+limitedpage/coin/images@f501aa7f19842c2e2a38d9b8106933608707843dee132788d113cc2d01c85f5e	"AsNeeded(渹8・
+limitedpage/coin/slidey
+limitedpage/coin/slide@067bce4ce865c0a66f25da9f8b25a0fcbdb9d78bc49a5f8d2fa2aefc2a06051d	"AsNeeded(ｴﾍΤ8齷・
+limitedpage/coin/topscreen}
+limitedpage/coin/topscreen@325fef46fb89a97e025e1a0d6cd86bb3a85238655eea61cc4bd70263c2af039c	"AsNeeded(喋8ｺ・・
 live2d/chara/001_2018_dog|
 live2d/chara/001_2018_dog@438536d8753f6a7c352b24d6f9cb0b957513c8200705c4166e0f3054952b39a8	"AsNeeded(鰓鈊8'・
 live2d/chara/001_cafex
@@ -14217,7 +14226,7 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 musicjacket/musicjacket270|
 musicjacket/musicjacket270@60b7988e4bca05b0778a76e07ec478a3a5a28c626f79e04b1372f1fef6d53f20	"StartApp(ｯ極?8ﾆﾑX・
 musicjacket/musicjacket280}
-musicjacket/musicjacket280@14064299131bc93a98cf4de5c9cdba3b5988985c0c5692fb001adbbeb5da055d	"StartApp(ﾅζｴ	8・・
+musicjacket/musicjacket280@3daeda82a22e66c8e00575894d2054275988985c0c5692fb001adbbeb5da055d	"StartApp(ｴﾒ・8ﾑ・・
 musicjacket/musicjacket30}
 musicjacket/musicjacket30@355869bc462aa000fc5f3249ddb9c966143ebb6e52f034c339c72fdf1c814178	"StartApp(綠・
 8聰・・
@@ -14289,7 +14298,7 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 musicscore/musicscore270|
 musicscore/musicscore270@8cc1d68faa9dec961f61b060abfec42c9a04b460a7def2b73cacba1bceaa5c6c	"StartApp(ぅ8ﾃ・
 musicscore/musicscore280{
-musicscore/musicscore280@66b15b105fdfdedb9fe7a1606b3a07224fadade214bbf16f0d829e3d80b74482	"StartApp(・・8・・
+musicscore/musicscore280@a70a055c093c9a93179780651958193c4fadade214bbf16f0d829e3d80b74482	"StartApp(尸ﾇ･8箋6・
 musicscore/musicscore30{
 musicscore/musicscore30@91d3500db2a03c1370c22370c4ace92bc5b27e1ea4e296309ab3e139b04eb514	"StartApp(レｽ・8ﾅ・・
 musicscore/musicscore40{
@@ -17325,7 +17334,9 @@ $sdchara_tutorial/model/s000_templete@ca0ee4f7060bfa6528cd0c5007cf0c88550bb57f8
 sound/bgm271@96ec972e96717442f5ef3ad47545ccfeca43c129d5417bfb8d2e7741b2d78341	"AsNeeded(ﾇ絃ｭ8剿・
 sound/bgm272p
 sound/bgm272@ff7e3d8b5a1d0c8666958b07b9a28a7bb740a87d431c6d148075f7688a8fc4fd	"AsNeeded(ﾈ､ｰｲ
-8ﾒﾔｼ
+8ﾒﾔｼ
+sound/bgm273p
+sound/bgm273@bedb73c3b32db15170dbec54d740e7c4d1508ee092d3242cb34de61aabdd1905	"AsNeeded(筱｣ｬ	8ﾚ・
 sound/commono
 sound/common@ab3e7d4cd3b0a8580c7f1a803181df83976046ccb221619c8fd6c9c66deeaabe	"StartApp(ｼ盒ﾙ8迩I・
 sound/common_tutorialx

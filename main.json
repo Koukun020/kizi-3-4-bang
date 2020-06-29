@@ -7,8 +7,8 @@
  "appversion":"4.3.0",
  "appiconlink":"https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ca/91/ea/ca91ea1a-fb33-0043-1240-1583ac89aef2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/246x0w.png",
  "appapdateinfo":"【アップデート内容】<br>・新バンド「RAISE A SUILEN」がアプリ内に登場<br>・「RAISE A SUILEN」の追加に伴う、一部画面表示の調整<br>・「RAISE A SUILEN」の追加に伴う、エリアアイテムの設置個所の名称変更<br>・「RAISE A SUILEN」の追加に伴う、エリアアイテムを設置した際のダイアログの一部文言調整<br>・近日中に一時的に公開を予定している新機能の公開準備<br>・イベントストーリー内にてMorfonicaのバンドストーリー選択時に表示される背景画像の画質調整<br><br>【機能改善】<br>・iPhone SE（第2世代）を対象に「タップ時振動」機能の対応<br><br>【不具合修正】<br>・細かな不具合の解消<br><br>※詳しくは、アプリ内のお知らせをご覧ください",
- "appapdateversion":"N/A",
- "appapdatedate":"",
+ "appapdateversion":"4.3.1",
+ "appapdatedate":"2020/06/30",
  "assetbundleinfoversion":"4.3.0.550",
  "assetbundleinfodate":"2020/06/24",
  "masterversion":"4.3.0.550",
@@ -27,6 +27,7 @@
     }
   },
  "backup":[
+  {"appapdateversion":"N/A","appapdatedate":"","backupdate":"2020/06/25","backuptype":5},
   {"assetbundleinfoversion":"4.3.0.500","assetbundleinfodate":"2020/06/22","masterversion":"4.3.0.500","masterdate":"2020/06/22","dataversion":"4.3.0.500","datadate":"2020/06/22","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/24","backuptype":1},
   {"assetbundleinfoversion":"4.3.0.400","assetbundleinfodate":"2020/06/20","masterversion":"4.3.0.400","masterdate":"2020/06/20","dataversion":"4.3.0.400","datadate":"2020/06/20","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/22","backuptype":1},
   {"assetbundleinfoversion":"4.3.0.300","assetbundleinfodate":"2020/06/19","masterversion":"4.3.0.300","masterdate":"2020/06/19","dataversion":"4.3.0.300","datadate":"2020/06/19","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/20","backuptype":1},

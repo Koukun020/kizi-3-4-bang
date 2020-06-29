@@ -1,4 +1,4 @@
-4.3.0.300
+4.3.0.550
 actionset/group0r
 actionset/group0@557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9	"StartApp(ﾉ・・8ｾ{・
 actionset/group1r
@@ -42,7 +42,7 @@
 actionset/group80t
 actionset/group80@20f0c1b490c8d032b9ccce91c7d11ca3f83e414cf56d75640e95ba2eadcaeffb	"StartApp(ｴｻﾘ8ｧ・・
 actionset/group81s
-actionset/group81@42a4d1a2ec3a510eee63647e846df32681b59d750d6258f8f379bc7b2eea47c0	"StartApp(ｩﾋ渾8婉・
+actionset/group81@80e76d3431be791f7910ae69c6fc5e5381b59d750d6258f8f379bc7b2eea47c0	"StartApp(剱8・
 actionset_tutorial/group703}
 actionset_tutorial/group703@769dc7702e8864429df84a05c9096b4d850d4ce7c7f71041880e1b7231c09ba3	"Tutorial(岺楴8・・
 actionset_tutorial/group773}
@@ -499,7 +499,9 @@ $backstage/installed_object/markerpen@289644f7b5fe69192570bf228e428daa6898f4514
 %backstage/sdchara/00015_school_winter・
 %backstage/sdchara/00015_school_winter@927fcba7405fd5b38e97005bf8c5bdc534e1bcf1bec81cc763c01aee3370a4ae	"StartApp(ﾌ・8ｲ・ｶ
 'backstage/sdchara/00016_birthday_2020_1・
-'backstage/sdchara/00016_birthday_2020_1@c63811ebdfc51b6b765517bfaa65fa23d0245db8491dc3f725bdd03e0d0a4ed8	"StartApp(倬ﾜ｡8ｨ
+'backstage/sdchara/00016_birthday_2020_1@9f399e4fadf12ae0b1e3ba9a0164973ed0245db8491dc3f725bdd03e0d0a4ed8	"StartApp(ﾆﾔ｢・8ﾓﾜﾄ
+.backstage/sdchara/00016_birthday_2020_summer_1・
+.backstage/sdchara/00016_birthday_2020_summer_1@1dbb7e10deaef8bd2fac50372659840672c079375d6b9ccd68e3426d76c86ca0	"StartApp(ﾕ・ｷ8・ｨ
  backstage/sdchara/00016_hurisode・
  backstage/sdchara/00016_hurisode@e69514457dd1efab8040f8300eef5b99c514d7c4b69e157bbddff98c87696a3a	"StartApp(馞ﾓﾇ8碎ｲ
 %backstage/sdchara/00016_school_summer・
@@ -535,7 +537,14 @@ $backstage/installed_object/markerpen@289644f7b5fe69192570bf228e428daa6898f4514
 %backstage/sdchara/00019_school_summer・
 %backstage/sdchara/00019_school_summer@af9c2305a63ae08790f551da978440442f5158f07ed99f7e2bc7bef45d3cff61	"StartApp(ﾐｶｷ8ｨ・ｲ
 %backstage/sdchara/00019_school_winter・
-%backstage/sdchara/00019_school_winter@e76dfe8d09c33eff35f9e60a5c0e1673f70a59a6d4b726f59aa4683ec541eeb8	"StartApp(・勹8ｮ・ｨ
+%backstage/sdchara/00019_school_winter@e76dfe8d09c33eff35f9e60a5c0e1673f70a59a6d4b726f59aa4683ec541eeb8	"StartApp(・勹8ｮ・ｶ
+'backstage/sdchara/00020_birthday_2020_1・
+'backstage/sdchara/00020_birthday_2020_1@cf46b08f33670da4a218a58b94297f5915e9917b98307d6c5d1084f0de121666	"StartApp(ｫ後	8ﾗｶ
+'backstage/sdchara/00020_birthday_2020_2・
+'backstage/sdchara/00020_birthday_2020_2@117fd483039f11a003a4de44f5d73d8f842d863568ed0a45f29b1c5514a35d10	"StartApp(ﾗ胥・8刄ﾄ
+.backstage/sdchara/00020_birthday_2020_summer_1・
+.backstage/sdchara/00020_birthday_2020_summer_1@0636c80f4b9c864e0635c8d7cbdc8386655883d2a764d076254d0475d4e6c1f0	"StartApp(ｭｵｯ・
+8磊ｨ
  backstage/sdchara/00020_hurisode・
  backstage/sdchara/00020_hurisode@4c9eacecc1ea1ee3e909a66fc06d3017c193cba979690cde668dffcac35d3453	"StartApp(・鈞8・
 ｲ
@@ -643,9 +652,9 @@ $backstage/installed_object/markerpen@289644f7b5fe69192570bf228e428daa6898f4514
 ,backstage/sdchara/model/s015_birthday_2020_1・
 ,backstage/sdchara/model/s015_birthday_2020_1@56e5737b112efed34315b3fff3d832502d1b2089ffabbe4877868af30ec07623	"StartApp(・湟8・8ｲ
 %backstage/sdchara/model/s015_hurisode・
-%backstage/sdchara/model/s015_hurisode@c5180fa12068852db25e05738a6313d9c8a8700f8825a87ceeed8719d0ffc31e	"StartApp(ｵむﾒ8洞ｿ
+%backstage/sdchara/model/s015_hurisode@c5180fa12068852db25e05738a6313d9c8a8700f8825a87ceeed8719d0ffc31e	"StartApp(ｵむﾒ8洞ﾀ
 ,backstage/sdchara/model/s016_birthday_2020_1・
-,backstage/sdchara/model/s016_birthday_2020_1@980d8191a08b2ef208f0da59de78eca51124f114c39630d22d2d2a28a0179731	"StartApp(ｭ塹"8・ｲ
+,backstage/sdchara/model/s016_birthday_2020_1@bc173cc6c6f689d1daf2e0bb68681ea41124f114c39630d22d2d2a28a0179731	"StartApp(・ｩ｢8ｺ>ｲ
 %backstage/sdchara/model/s016_hurisode・
 %backstage/sdchara/model/s016_hurisode@2df52f76ead5246c54541f22d0f083be13c147f01c1d7115ec9ea2b80c21506f	"StartApp(・ﾓｧ
 8異ﾀ
@@ -663,7 +672,11 @@ $backstage/installed_object/markerpen@289644f7b5fe69192570bf228e428daa6898f4514
 ,backstage/sdchara/model/s019_birthday_2020_1@5db5f341684beaeef1b51c473c059106ca9a436c68f012bc4d2883157ac43a83	"StartApp(ﾋ晟ｸ
 8芝9ｲ
 %backstage/sdchara/model/s019_hurisode・
-%backstage/sdchara/model/s019_hurisode@bfdb3a0f47c9d56b311e5a4cbf2d9e8fb71b630c38a6def341aee4513d2fae73	"StartApp(獪｢8ｩ｢ｲ
+%backstage/sdchara/model/s019_hurisode@bfdb3a0f47c9d56b311e5a4cbf2d9e8fb71b630c38a6def341aee4513d2fae73	"StartApp(獪｢8ｩ｢ﾀ
+,backstage/sdchara/model/s020_birthday_2020_1・
+,backstage/sdchara/model/s020_birthday_2020_1@8242e92b8d57c7991295a746586e30ac652f5c036b06b6cc92da0924a3d9f5f9	"StartApp(鋐ｾ8・@ﾀ
+,backstage/sdchara/model/s020_birthday_2020_2・
+,backstage/sdchara/model/s020_birthday_2020_2@30f9a21754cb3318225ad7cbb778ccb6c0d8e54fa56d3064f89c7dfa5908bcc6	"StartApp(・ｲｽ8箇Aｲ
 %backstage/sdchara/model/s020_hurisode・
 %backstage/sdchara/model/s020_hurisode@87229aad64cb3497998e8531ed8c95a03abb639a486f4a2ee3f25f9608cae5d0	"StartApp(ﾂ・8ｪﾓｲ
 %backstage/sdchara/model/s021_hurisode・
@@ -706,6 +719,9 @@ $backstage/installed_object/markerpen@289644f7b5fe69192570bf228e428daa6898f4514
 backstage/stage/default@4a09647086d66e1e917561c7112d9d993a31275abd62b3b923c5f831b91ab587	"StartApp(翁ﾛｺ	8蝙D・
 backstage/stage/eve_2019{
 backstage/stage/eve_2019@f6f56dc09d4771d3b990fdea40799dd33c9b09180c43d928ded18d4fb6da81bd	"StartApp(ｵﾆ8ﾃﾀc・
+backstage/stage/eve_2020{
+backstage/stage/eve_2020@4de0b0063e7b21390fab2155d7e2058677e887502e03505e4e8d476b40479b83	"StartApp(涛ﾙﾎ
+8曺`・
 backstage/stage/hagumi_2019~
 backstage/stage/hagumi_2019@70e27d5c41b864630a2105d8260c1bf7d1847e7198f1a1fdfe51c68cc4f93bad	"StartApp(ﾋ・8ﾎ稈､
 backstage/stage/halloween_2019・
@@ -866,7 +882,7 @@ $backstage/installed_object/markerpen@289644f7b5fe69192570bf228e428daa6898f4514
 "backstage/talkset/group50001_50010@618b5e0d9472551b586008fafe93695c28d96491ccb833665ba7d7e3d416fea4	"StartApp(ﾎﾆﾕﾅ2%backstage/installed_object/black_fade2!backstage/installed_object/screen2)backstage/installed_object/screen_lighted2'backstage/sdchara/00022_birthday_2020_18ﾄｲ
 ｬ
 "backstage/talkset/group50011_50020・
-"backstage/talkset/group50011_50020@4bc44403348f12dea1d558c3bc2b4b30a0169d4a7497c5d6cf94d9f59740bfd4	"StartApp(ﾈ繒・8､
+"backstage/talkset/group50011_50020@64d2b59da96a7c0bc6fe7bfaad9b6536a0169d4a7497c5d6cf94d9f59740bfd4	"StartApp(ﾔ櫢ﾏ8｡ﾛ､
 backstage/talkset/group501_510・
 backstage/talkset/group501_510@65042e6a7d26d8c584d649cd04299d4b55f4e5929c4253ceba2abb917bf52ce7	"StartApp(ｹﾀｺ･8､
 backstage/talkset/group511_520・
@@ -1269,7 +1285,11 @@ bg/scenario49@25083816601156d78676971af764c86d5005437f920965c5b1560cc879b45d94
 
 bg/scenario50q
 
-bg/scenario50@b14e1f33e61a420220daec8bde8a7840bd60252b98205570ee88942e36854d56	"AsNeeded(ﾞｰﾜ8ﾙ﨡・
+bg/scenario50@3a7eafe6638efefee9fe0ad6bf46eeddbd60252b98205570ee88942e36854d56	"AsNeeded(・､・8・・・
+
+bg/scenario51q
+
+bg/scenario51@061526feac12c7fd9c2a5a243847064512176ca572855eaf1accd1f8c93a9db7	"AsNeeded(ｽｨ爿8・・
 
 bg/scenario52p
 
@@ -1422,7 +1442,13 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 birthday/eve_2019/openingimages・
 birthday/eve_2019/openingimages@aca23c1868723723b64277d13fb8894aed5c76a1c39ba1f7d2e58390caace387	"AsNeeded(ｮ靄ﾃ8ﾒ珖ﾝ
 birthday/eve_2019/topscreenｽ
-birthday/eve_2019/topscreen@7c3cbc6dccdc2256c66316c83662c55e99efcd65d55d470df4fac8c50aacb525	"AsNeeded(・ｺﾎ2birthday/chisato_2019/topscreen2birthday/hina_2019/topscreen8ｭ酬ﾃ
+birthday/eve_2019/topscreen@7c3cbc6dccdc2256c66316c83662c55e99efcd65d55d470df4fac8c50aacb525	"AsNeeded(・ｺﾎ2birthday/chisato_2019/topscreen2birthday/hina_2019/topscreen8ｭ酬ｦ
+birthday/eve_2020/openingimages・
+birthday/eve_2020/openingimages@9f790f11b0fbde37d86777e51ea32d625daa11ca0fca83c63d36d1ae721118b0	"AsNeeded(ｷ嵭ﾘ
+8｣ﾒ・
+birthday/eve_2020/topscreen~
+birthday/eve_2020/topscreen@3339ee7b1fc58bb01a8855b27d2ca9ff0556c5818677a037cec7cb61833cc612	"AsNeeded(ｫﾇ虜
+8哈ﾃ
 birthday/hagumi_2018/topscreen
 birthday/hagumi_2018/topscreen@c3b9d84e8075eb8af05f9d8801be7ce846e624971ad347b761bf84ed20da8b10	"AsNeeded(ｦ鄒ｩ2birthday/saya_2018/topscreen8ｪﾒ・ｬ
 "birthday/hagumi_2019/openingimages・
@@ -1847,6 +1873,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 &characters/ingameresourceset/res004034・
 &characters/ingameresourceset/res004034@6c46694090a3cf628458d54ba1b42e8ad0f08c1fb9e3b50b059b5f4f5fb46a49	"AsNeeded(ﾆ・
 8｡・ｴ
+&characters/ingameresourceset/res004035・
+&characters/ingameresourceset/res004035@d36d0e881773e738a19934b7ff0a8cfda26379bb07e87aead410257c013deaac	"AsNeeded(橸・8ｰﾒGｴ
 &characters/ingameresourceset/res005001・
 &characters/ingameresourceset/res005001@50ca2771eda6ee40b7cb8308d8cb89779e9de5e8039c2dcae8393c977a103c24	"AsNeeded(・鮓8熈ｳ
 &characters/ingameresourceset/res005002・
@@ -2123,6 +2151,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 8ｶﾔEｴ
 &characters/ingameresourceset/res008039・
 &characters/ingameresourceset/res008039@0dc716c43066d9956750021e62136543e6aa8b69bf1956f8113011f0ddc688df	"AsNeeded(ｳ├・8ｬｿFｴ
+&characters/ingameresourceset/res008040・
+&characters/ingameresourceset/res008040@28b557c8468b5d347941974d6a482eb071d1cd7c91e0274684a4841e09d7e591	"AsNeeded(霄ﾏ・8奓ｴ
 &characters/ingameresourceset/res009001・
 &characters/ingameresourceset/res009001@d62ec01b756a2a9e3183b1f20927d2f0e385de3fbd03b23be7d255435b6ba206	"AsNeeded(ｬﾁ魍8・ｴ
 &characters/ingameresourceset/res009002・
@@ -2528,6 +2558,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 &characters/ingameresourceset/res014039@e03daf3dc8f1fde05259623a0c213f94258344d457a90e3b017b2d079c4aa0fa	"AsNeeded(ｷ・・8釆Gｴ
 &characters/ingameresourceset/res014040・
 &characters/ingameresourceset/res014040@9baaf7ad57b7626cdf1fec1026a764f259d55274fbe0b2dbfc572a5b9fd93f3d	"AsNeeded(｣呑ｼ8・Hｴ
+&characters/ingameresourceset/res014041・
+&characters/ingameresourceset/res014041@274fd8f8392d8a8a4d6e2d845aa8c6b25c98d899bd7ef8a62a415cb8f9aca246	"AsNeeded(ｽ籥・8・ｴ
 &characters/ingameresourceset/res015001・
 &characters/ingameresourceset/res015001@d8bc52adf0cce08c237365d456186877f0b9cf6c4ae61fcdd19bee819187fe54	"AsNeeded(冷ｸﾘ8｢ﾏｴ
 &characters/ingameresourceset/res015002・
@@ -2812,6 +2844,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 &characters/ingameresourceset/res018037@4bb3f27d36a39e80ba370057768a7df358e21be900f8ded52859d20cbe521b5f	"AsNeeded(ｩﾗｪｾ8ﾏ洲ｴ
 &characters/ingameresourceset/res018038・
 &characters/ingameresourceset/res018038@27d9b3806ff1e06474f5fa3c7920ff674b0f12f1f60e3e7ba0f14f50a0fc9173	"AsNeeded(ﾉｼﾂ・8ｽｩFｴ
+&characters/ingameresourceset/res018039・
+&characters/ingameresourceset/res018039@0ba0c2eeb99a226b07a979721bbba69b10963a4b9517c777eb6b277a6d309671	"AsNeeded(ｺ郞・8ﾈﾕIｴ
 &characters/ingameresourceset/res019001・
 &characters/ingameresourceset/res019001@a62f7b3bd0f09b9a5e827feb7a7e2bbaa2b230f7f0088b36dc6e112b7d830b26	"AsNeeded(伍・8・ｴ
 &characters/ingameresourceset/res019002・
@@ -2945,6 +2979,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 &characters/ingameresourceset/res020041@3698f237ca05c8a98fe10e55678d318026a0b0bd86db38ab00d0cfc61f4da6dc	"AsNeeded(・貽8ｬ・ｴ
 &characters/ingameresourceset/res020042・
 &characters/ingameresourceset/res020042@7da302228ebf5ef09a5f2413931c18a6cd7dec2511a4d4fb99c6cd6f1e0cbe04	"AsNeeded(監穂8ﾎｬBｴ
+&characters/ingameresourceset/res020043・
+&characters/ingameresourceset/res020043@05053484cd6fc7abc1947d4ad4b4873d7bf3619a7f2a84a1bf33301dc0bacbbb	"AsNeeded(ﾏﾔ釭8ﾐ栗ｴ
 &characters/ingameresourceset/res021001・
 &characters/ingameresourceset/res021001@13e9f43966301e65e6b4fd978f922ec901d7f76466f784571c0f09ee2da7b6de	"AsNeeded(ｴｷ窿8衢ｴ
 &characters/ingameresourceset/res021002・
@@ -3663,6 +3699,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 characters/livesd/sd004033@52bafffa34eaaeecc11ec682b23dff0e9fbaa55c85315ab0abe2ce251525d70b	"AsNeeded(ぽﾈ・8+・
 characters/livesd/sd004034}
 characters/livesd/sd004034@39fefb9b0301e4ac84a41f1a61997cd8a5e696cf1aad1db05f548d28b5ef9702	"AsNeeded(ｦﾋ8・・
+characters/livesd/sd004035|
+characters/livesd/sd004035@6d2c0f2d9a9effd1a0c492675115035c1b56a7163318b9df2ba386e9eb9497d4	"AsNeeded(ﾇ雪48)・
 characters/livesd/sd005001}
 characters/livesd/sd005001@ab57fc7f678016e2b21b6b458f1ffa4cde64d7129a5684b4036ae61afb3498ce	"AsNeeded(ｳ披・8刷・
 characters/livesd/sd005002}
@@ -3980,6 +4018,9 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 characters/livesd/sd008038@df81fd47a32b7b9798bd3f2d1e8d771d0713bc4fddb788ea7d22f5e9423cea84	"AsNeeded(ｷ・8･､・
 characters/livesd/sd008039}
 characters/livesd/sd008039@5d4f2cf6ff4683001ea5691920264ada1629390ab2799569103314491ae319a2	"AsNeeded(ｰ・ﾆ8ｬ・・
+characters/livesd/sd008040}
+characters/livesd/sd008040@570327ccf9d782291b5d96aaa74f8f6e5688d736b1218be3e7ec49c687a5a240	"AsNeeded(ﾈ栁ﾇ
+8懽・
 characters/livesd/sd009001}
 characters/livesd/sd009001@a478d5b3b244f93966d593211d9ce0032efef0f3cee6dd5ab5c75b9aeb2dd71c	"AsNeeded(抜錞8洫・
 characters/livesd/sd009002}
@@ -4440,6 +4481,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 characters/livesd/sd014040}
 characters/livesd/sd014040@695f803b90f3fbf13a63ac620e3cabac86df6305fa9b5a5c05bd83e7f7a27af3	"AsNeeded(ｷ摺・
 8・+・
+characters/livesd/sd014041}
+characters/livesd/sd014041@2524b928ae59df9f37ad244d068ef0ec4fa471ed6741b8ad1c3b997e755f5d7b	"AsNeeded(ｬ・・8櫢"・
 characters/livesd/sd015001|
 characters/livesd/sd015001@219231757a19df3e515f65e11c66f8a31377d744ed234ebc9c60e0564fce623f	"AsNeeded(塒ﾗi8ﾞ・・
 characters/livesd/sd015002}
@@ -4766,6 +4809,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 characters/livesd/sd018037@be65115c4adf6a649a8a34f6e41156c2c3a19c75304474063b52ea8bfc649b29	"AsNeeded(砌8｣・・
 characters/livesd/sd018038}
 characters/livesd/sd018038@94e1f52b5ba6d301670f4579639145dcac0b48723b64939cacad5e533261b25a	"AsNeeded(瞳ﾋ8葈・
+characters/livesd/sd018039}
+characters/livesd/sd018039@d152f53bec89391721fac38f4c7736bd30e20ff3d7d6c779686a8dea3bfb7a0e	"AsNeeded(ﾎﾜ8ﾛ・・
 characters/livesd/sd019001}
 characters/livesd/sd019001@a6e57dd77dc2dc8147494ba8440ea8671a7c369507716847c88a5dc7086318a6	"AsNeeded(ﾔｵ
 8ﾖ・・
@@ -4928,6 +4973,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 characters/livesd/sd020042}
 characters/livesd/sd020042@ef53bbd76a38bbfd4281e18416bd838de78eeccf9a7b7b99344542a69140ff34	"AsNeeded(摶齧
 8ﾈﾊ・
+characters/livesd/sd020043}
+characters/livesd/sd020043@6e840c8af39de0d3f20a278d499e9a6cb81cafba8bc81f9772e8d3d3963f4f87	"AsNeeded(・ﾒﾛ8・
 characters/livesd/sd021001}
 characters/livesd/sd021001@5b72c185c5734970ab8a0ece22f0863a9e7d134c7b42fcd621621bfcef6979ee	"AsNeeded(ｻｿ・8ﾎ・・
 characters/livesd/sd021002}
@@ -5650,7 +5697,10 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
  characters/resourceset/res004033・
  characters/resourceset/res004033@0f37a2a56cbfdf03bd1d6ef0c8b6a511ff5d1067247a91d0f00ed7ce61063152	"AsNeeded(嵭｢・8ﾃ攣ｨ
  characters/resourceset/res004034・
- characters/resourceset/res004034@cc7aa2f968fe3bdcaa590d98bbb7cb76182912a7377419f71d6fc4431fc6d92d	"AsNeeded(ｹ栂ｳ8ﾗ・ｨ
+ characters/resourceset/res004034@cc7aa2f968fe3bdcaa590d98bbb7cb76182912a7377419f71d6fc4431fc6d92d	"AsNeeded(ｹ栂ｳ8ﾗ・ｩ
+ characters/resourceset/res004035・
+ characters/resourceset/res004035@53504891e49be90a4540d8c6818751cae2a3ccffe9c7c52777cf2e5af012401d	"AsNeeded(ﾄ・
+8讎ｾｨ
  characters/resourceset/res005001・
  characters/resourceset/res005001@bb3aac8701db20743f6cf7547b05c034289aefae0f2130b7bdbd13f2a901c43a	"AsNeeded(ﾖч・8何ｨ
  characters/resourceset/res005002・
@@ -5927,6 +5977,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
  characters/resourceset/res008038@1f068a790f9e0431b571edd3923b274ea53d48bb63908589169b80ac652aa404	"AsNeeded(墲8ﾈﾝｰｩ
  characters/resourceset/res008039・
  characters/resourceset/res008039@0737568cc5c53d92adc5956ee22d3355e1d8aa22a9bcf429acdc10c9813ea55a	"AsNeeded(數ﾝ・8ﾕ・ｨ
+ characters/resourceset/res008040・
+ characters/resourceset/res008040@a1cc5c5811593d8be139a19fd0faed05bbb860eb95c0ad383d74d5be68624acf	"AsNeeded(ⅲｮｽ8ｽ・ｨ
  characters/resourceset/res009001・
  characters/resourceset/res009001@f22594ae761bc11688b0dffaa27b52b7c310de0ae63bf8feabe5169ce1047f5e	"AsNeeded(ﾌｿｱ8ｬ・ｨ
  characters/resourceset/res009002・
@@ -6340,6 +6392,8 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
  characters/resourceset/res014040・
  characters/resourceset/res014040@953a6e98f27d38b69e3e96fa7e2fd23df3cb8fd7f5335155595f694a895db5d2	"AsNeeded(ｫ・・
 8耒ｮｨ
+ characters/resourceset/res014041・
+ characters/resourceset/res014041@23f1cd1c743c63eabbc98c37d3b80a8965f646964940bed8fc2cb1e5eb82ff6c	"AsNeeded(ﾖｯ名8ﾘ・ｨ
  characters/resourceset/res015001・
  characters/resourceset/res015001@443e2b2362ca6a06c4675b9d847644cc8c2f07cdd34724f3e260845cdd004af7	"AsNeeded(靈聶	8ｴｰｨ
  characters/resourceset/res015002・
@@ -6625,7 +6679,9 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
  characters/resourceset/res018037・
  characters/resourceset/res018037@de792b0442c498ccf1a3c9260f61e91c2b43c0f8729b0372ded7460f42a5ff45	"AsNeeded(痲ﾅｼ8｣ｩﾂｩ
  characters/resourceset/res018038・
- characters/resourceset/res018038@b72ad01a3bb47e44378a914e816ac1e383a811fedc6ce07f76bdf3e95f2c8cb7	"AsNeeded(ﾑ・8ｬｮｨ
+ characters/resourceset/res018038@b72ad01a3bb47e44378a914e816ac1e383a811fedc6ce07f76bdf3e95f2c8cb7	"AsNeeded(ﾑ・8ｬｮｩ
+ characters/resourceset/res018039・
+ characters/resourceset/res018039@d946d7deb2e7729c65b6b2aec06a42be73ef8d0d65c31fa0ca7d144eff898186	"AsNeeded(ﾞﾅ鞁8ｰ酥ｨ
  characters/resourceset/res019001・
  characters/resourceset/res019001@793ba95403a7b077b7861d87056a1586d4671de919e23a342e702689daccab0f	"AsNeeded(亟・
 8ｸ・ｨ
@@ -6756,7 +6812,9 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
  characters/resourceset/res020041@8cef056df3e769dd9afb9970df8b2039bb6b7c99462adb869142ebc16b01bb17	"AsNeeded(ﾎ館8(ｩ
  characters/resourceset/res020042・
  characters/resourceset/res020042@97cb392be53ddbeac48f69c7c80bcb478bb2d2643275efb0846241f15190a2b9	"AsNeeded(枢・
-8釵・ｨ
+8釵・ｩ
+ characters/resourceset/res020043・
+ characters/resourceset/res020043@ad31b27337577be880384c90fc921e1e80cd63b300bad20663a915d12997efbd	"AsNeeded(戴ﾄ・8ｾｫﾁｨ
  characters/resourceset/res021001・
  characters/resourceset/res021001@94776c8ef2d1e61d52c1265809814ceee077d08cbdb2d4ef0c26af9190188130	"AsNeeded(ﾘ氈ﾓ8吏ｨ
  characters/resourceset/res021002・
@@ -8810,6 +8868,12 @@ bg/scenario52@20068794cf678e5e45d73c59d297f628dca14d1d20878254062c982c4d21461d
 !event/ephemeral_night_dream/slide@c3287fc5e3560886b10f17dbecf32cfa5241cf7905b1e41d2047b72f7b87c116	"AsNeeded(続・8ﾄ・ｲ
 %event/ephemeral_night_dream/topscreen・
 %event/ephemeral_night_dream/topscreen@c454f69e3442d404720983a2be2a6b34d63c0e25e5e1c0eb383d03f8c0582f1e	"AsNeeded(ﾆ・8直t・
+event/eve_nayami/imagesz
+event/eve_nayami/images@2126a8dd227ee6f561fee7dcdda887708f60cf5d8e00db08b1e257e79603d9e8	"AsNeeded(ﾊ｢軸8ｳﾟ・
+event/eve_nayami/slidez
+event/eve_nayami/slide@fb8903e3bcc47a08b9dbfe7ddc1ab36351f63476496451f203ed01d2b09ba44b	"AsNeeded(泯ﾎ・8･・
+event/eve_nayami/topscreen~
+event/eve_nayami/topscreen@7336f021a35f400673b862324ab60d399059df8026fd465edc37af60ac8858cb	"AsNeeded(需ﾂ・8ｺｧ・
 event/evening/imagesw
 event/evening/images@7e330cad9f946f4b8b642e3fc720cba51d17dfbbdc2a20e986f67d9a35264c37	"AsNeeded(│8ｻﾀ・
 event/evening/slidev
@@ -9099,7 +9163,9 @@ $event/happy_valentine_2018/topscreen@655478806b70d597c31fc52ab2d08a4c31e9719ba
 (event/loginbonus/beginner_login_20180507・
 (event/loginbonus/beginner_login_20180507@c89f7e8721c3cd893ebb8cc55a23be894439b435a058575992decab1c7ae4994	"AsNeeded(ﾔｹ掌8ﾍ<ｸ
 (event/loginbonus/beginner_login_20190316・
-(event/loginbonus/beginner_login_20190316@1f01b5a794ab9cbd31d53108a1bc0d6386b616d44fc23a5adcf667e5223555eb	"AsNeeded(ﾟﾅｧ・8ｹｰkｬ
+(event/loginbonus/beginner_login_20190316@1f01b5a794ab9cbd31d53108a1bc0d6386b616d44fc23a5adcf667e5223555eb	"AsNeeded(ﾟﾅｧ・8ｹｰkｲ
+%event/loginbonus/breakthrough_release・
+%event/loginbonus/breakthrough_release@0cc2fc00e2621e551ded6f8b1c456e6554cff32f6f6f0d79663d674304a21e1d	"AsNeeded(ｻｱ鋩8承bｬ
 "event/loginbonus/comeback_20171211・
 "event/loginbonus/comeback_20171211@1e282085f717878b2e93a4161ffd459a4047c1e5b10703ce8c5d8aa24a2d8e9b	"AsNeeded(ﾐﾐﾈ・8gｬ
 "event/loginbonus/comeback_20190316・
@@ -10277,7 +10343,14 @@ $event/student_council_hane/topscreen@10cfa6b7f9977ab34d367195f76a7bbdb3e8267d6
 gacha/screen/gacha575・
 gacha/screen/gacha575@a01b7520cc20232ec726292f30272ba007a8a9eeb21bdbbacda93794f94287e4	"AsNeeded(甥・2effect/common_materials8ﾋﾅhｬ
 gacha/screen/gacha576・
-gacha/screen/gacha576@94fc94362180dde463308c8d52288ef932a234c13438a30271699b5f239f3a94	"AsNeeded(ﾃ挫・2effect/common_materials8ﾏｫ
+gacha/screen/gacha576@94fc94362180dde463308c8d52288ef932a234c13438a30271699b5f239f3a94	"AsNeeded(ﾃ挫・2effect/common_materials8ﾏｬ
+gacha/screen/gacha577・
+gacha/screen/gacha577@4dc093b384aa5572b84e3565e50c202f524c2d098a23b81b6a62c88c16818979	"AsNeeded(ｩｳｧ・
+2effect/common_materials8ﾋ寵ｫ
+gacha/screen/gacha579・
+gacha/screen/gacha579@27186a1634b847bbb9c70e49726bba4b70e4b6c29b462316d44cee80e885ae38	"AsNeeded(ｲ費ﾕ	2effect/common_materials8ﾔﾘdｫ
+gacha/screen/gacha580・
+gacha/screen/gacha580@35b9d14c0ea248bba9cf4c52ddf13f280293531291f2ec72cbebf86cbf8166c1	"AsNeeded(･｣慍2effect/common_materials8或Mｫ
 gacha/screen/gacha583・
 gacha/screen/gacha583@4608ae807d0027b08b6b62a0c16729d2cc372afc5169d021031f6bdcd6b37054	"AsNeeded(・Σ2effect/common_materials8ﾈ孥・
 gacha/screen/gacha7v
@@ -10357,7 +10430,7 @@ $genericanimation/dream_festival_2004@8d1ac0a7615026c4fbdcd9850eee47e1ab95a7cc2
 
 homebannern
 
-homebanner@9e107903c5406f3ea4b88ad1262bff02578e1801cf37bea8d19805e333aba690	"StartApp(ﾔﾒｷ・8ｶ・・
+homebanner@5e4f3b2f541a9ce2e7683d77968c850d578e1801cf37bea8d19805e333aba690	"StartApp(譱罰8ﾚ・
 ingameskin/bgskin/skin00{
 ingameskin/bgskin/skin00@c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7	"StartApp(ｸ贅ﾘ8｢榎・
 ingameskin/bgskin/skin02{
@@ -10873,7 +10946,9 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 "live2d/chara/004_live_event_102_sr・
 "live2d/chara/004_live_event_102_sr@5776b5ff8e9e8be9c97465a169ed3e27b5057fef710fb52bc02f6a862277be29	"AsNeeded(ｲ桐・8筬Dｭ
 #live2d/chara/004_live_event_108_ssr・
-#live2d/chara/004_live_event_108_ssr@028239770667b27ff840cf9a0fd4454b1d672a478eeb49c09a0ace971dd882d7	"AsNeeded(・ﾏt8ﾀ・ｨ
+#live2d/chara/004_live_event_108_ssr@028239770667b27ff840cf9a0fd4454b1d672a478eeb49c09a0ace971dd882d7	"AsNeeded(・ﾏt8ﾀ・ｮ
+#live2d/chara/004_live_event_118_ssr・
+#live2d/chara/004_live_event_118_ssr@5d5c2396fccffd7e0b45fca25b872d1a407d29c3533b50fe296e2d8e02d223b7	"AsNeeded(・渚	8｢ﾖGｨ
  live2d/chara/004_live_event_12_r・
  live2d/chara/004_live_event_12_r@84f64ce463028f9586e7b1364bdb3053ae77c436d7b098cabb301fa02d2dca6a	"AsNeeded(ｸ苛ﾖ
 8蕓$ｬ
@@ -11307,6 +11382,8 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 "live2d/chara/008_live_event_109_sr@b0744e06acc6b00fbf768f4069c45e2a97ac597870a540ed9af6666c09be5e6c	"AsNeeded(ﾙ・8ﾋｸ6ｮ
 #live2d/chara/008_live_event_115_ssr・
 #live2d/chara/008_live_event_115_ssr@23fd89dc8c98562cea922ee72512a0698df97e84c3b2ff097daccb0e13065689	"AsNeeded(ﾈ嶺8・9ｪ
+!live2d/chara/008_live_event_118_r・
+!live2d/chara/008_live_event_118_r@df37b4dff5dc0d1d3ebc6c4f06b091fff0e2e8f5e6d83a19e80b2f6a94f36993	"AsNeeded(ｧｧ8ﾟﾅAｪ
 !live2d/chara/008_live_event_14_sr・
 !live2d/chara/008_live_event_14_sr@faffed121e965a07e8a719ad4cfa3fc043640aa14ba2a072ec11ce431600c2e1	"AsNeeded(ｼ羽・
 8.ｬ
@@ -11983,7 +12060,9 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 #live2d/chara/014_live_event_106_ssr@8686cd96f5b9120fc81fe2d9b08a803c1e7a4b007268990de9d2bfff97cba62e	"AsNeeded(ｦ繭・8閭4ｬ
 "live2d/chara/014_live_event_110_sr・
 "live2d/chara/014_live_event_110_sr@dccbf94cfb8c7bdb23f0006f1640195878ce5f0c9ad057d267d02b0eb56250ce	"AsNeeded(Ν羡
-8｡・ｨ
+8｡・ｪ
+!live2d/chara/014_live_event_118_r・
+!live2d/chara/014_live_event_118_r@583056d69e998884f034b87ac132657754da242b174b54a51a046e9286ba897a	"AsNeeded(ｧ・・8・4ｨ
  live2d/chara/014_live_event_11_r・
  live2d/chara/014_live_event_11_r@d91bdbc6336b2c1b43952a8beac507e6974d75fd6ff0ba6c22be1f3e845f30f8	"AsNeeded(ﾈ懾・8о'ｪ
 !live2d/chara/014_live_event_18_sr・
@@ -12463,6 +12542,8 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 8鶴Bｮ
 #live2d/chara/018_live_event_112_ssr・
 #live2d/chara/018_live_event_112_ssr@1592ca2cb9b35b58952d98f36717f6c3d948cf8a9ffb6f4a1392e25db1a4be39	"AsNeeded(ﾋ村8榱4ｬ
+"live2d/chara/018_live_event_118_sr・
+"live2d/chara/018_live_event_118_sr@a14cdba7c42c723cf692721b3b67851b8f499324d931974a16d21ecf1178ffef	"AsNeeded(･ｵ∵8・Aｬ
 "live2d/chara/018_live_event_13_ssr・
 "live2d/chara/018_live_event_13_ssr@d082e8f4cde4b64549ce6ccfb1f6d48c746bcb00aacc1ff7c8373d78ddc76dbc	"AsNeeded(銹¶8ｫﾀ=ｪ
 !live2d/chara/018_live_event_17_sr・
@@ -12643,7 +12724,7 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 #live2d/chara/020_event_104_story_01・
 #live2d/chara/020_event_104_story_01@b73b2f8ca15f92a1d5edba241625c0695a45b12e53219c9ffee5fb487810991e	"AsNeeded(・ｭﾏ8ﾌﾓ(ｪ
 !live2d/chara/020_event_38_story01・
-!live2d/chara/020_event_38_story01@42dabe3ab9d5b9f665dafa439090efd24ff270278f2ab03f3906c04fba8de865	"AsNeeded(ﾚｧ・	8ｷ・ｬ
+!live2d/chara/020_event_38_story01@e072e08485200ad5c78893e788e3251d4ff270278f2ab03f3906c04fba8de865	"AsNeeded(ｹ｡ﾞｴ8ｿ$ｬ
 "live2d/chara/020_event_50_story_01・
 "live2d/chara/020_event_50_story_01@aefefb9a48ac2b7f8860880e43a4d7a3f01e6b3e729d154b9524ee39fc02b58e	"AsNeeded(雜8堂ｫ
 "live2d/chara/020_event_65_story_01・
@@ -12670,7 +12751,9 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 "live2d/chara/020_live_event_104_sr・
 "live2d/chara/020_live_event_104_sr@c7affa00dd6b83b067ee4a4cf831817f7de114910742f02865acbd9d901c61f2	"AsNeeded(姓暲8磁:ｬ
 "live2d/chara/020_live_event_112_sr・
-"live2d/chara/020_live_event_112_sr@b01d5ddda135dd95fa4a51d4094b517d4b0724742412a7e4d615a5860109e5bd	"AsNeeded(仗ﾂ8ﾉ*ｪ
+"live2d/chara/020_live_event_112_sr@b01d5ddda135dd95fa4a51d4094b517d4b0724742412a7e4d615a5860109e5bd	"AsNeeded(仗ﾂ8ﾉ*ｮ
+#live2d/chara/020_live_event_118_ssr・
+#live2d/chara/020_live_event_118_ssr@f53dbfe18cf0c5a835893092eb76de4b47bc821d5785ff87eae553ff28109fcd	"AsNeeded(貍ﾐ8ﾙｺCｪ
 !live2d/chara/020_live_event_13_sr・
 !live2d/chara/020_live_event_13_sr@2df76e53048dddac5da9f8b21f36f395848cba48555fb9fdd71407d5fce9c908	"AsNeeded(ｵﾎﾓ・8ﾟﾆ*ｧ
  live2d/chara/020_live_event_19_r・
@@ -14226,7 +14309,7 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 musicjacket/musicjacket270|
 musicjacket/musicjacket270@60b7988e4bca05b0778a76e07ec478a3a5a28c626f79e04b1372f1fef6d53f20	"StartApp(ｯ極?8ﾆﾑX・
 musicjacket/musicjacket280}
-musicjacket/musicjacket280@3daeda82a22e66c8e00575894d2054275988985c0c5692fb001adbbeb5da055d	"StartApp(ｴﾒ・8ﾑ・・
+musicjacket/musicjacket280@eb715b14e362bf8784f0212a9b09bdfb5988985c0c5692fb001adbbeb5da055d	"StartApp(ﾚｺ纖8・8・
 musicjacket/musicjacket30}
 musicjacket/musicjacket30@355869bc462aa000fc5f3249ddb9c966143ebb6e52f034c339c72fdf1c814178	"StartApp(綠・
 8聰・・
@@ -14298,7 +14381,7 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 musicscore/musicscore270|
 musicscore/musicscore270@8cc1d68faa9dec961f61b060abfec42c9a04b460a7def2b73cacba1bceaa5c6c	"StartApp(ぅ8ﾃ・
 musicscore/musicscore280{
-musicscore/musicscore280@a70a055c093c9a93179780651958193c4fadade214bbf16f0d829e3d80b74482	"StartApp(尸ﾇ･8箋6・
+musicscore/musicscore280@7c950e3451ff5313d1533c436489fb164fadade214bbf16f0d829e3d80b74482	"StartApp(卩ﾁﾃ8湖c・
 musicscore/musicscore30{
 musicscore/musicscore30@91d3500db2a03c1370c22370c4ace92bc5b27e1ea4e296309ab3e139b04eb514	"StartApp(レｽ・8ﾅ・・
 musicscore/musicscore40{
@@ -16121,6 +16204,16 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 8ｩ・・
 pickupsituation/970v
 pickupsituation/970@facb4e0c508ce990855867afbf1065cc10adc557db8362c6ea4586257ec003ed	"AsNeeded(ｬﾕ・8ｭﾑ・
+pickupsituation/971v
+pickupsituation/971@79ebbf12bce8de89e9a6df7caad97f6cf941268778caf510d57cb692a0233d6e	"AsNeeded(誹ﾊｫ8樢・
+pickupsituation/972v
+pickupsituation/972@4b23a119b88bcd7b4e9493fc92fe3e483bef78c60dd8cf690caf1601eeb1e012	"AsNeeded(ﾜ續・8戒・
+pickupsituation/973v
+pickupsituation/973@b5ac2d7a227d2405957261173131245800a0eb50f535486c87b3896b06e452c6	"AsNeeded(懴續8ｳ・・
+pickupsituation/974v
+pickupsituation/974@1e1b5381fc3a6ab59dd36879ebc10d57e50779e73d18717a55241503c2424dee	"AsNeeded(ｶ｢	8ﾈｮ・
+pickupsituation/975v
+pickupsituation/975@2bcba624e8911ce8cd1cd108ec8b72c0f918181fd9f9099313be27df884294f7	"AsNeeded(ｶ篷・8ﾌﾋ・
 pickupsituation/98u
 pickupsituation/98@cf7da2d0b65fc13f91ffd780c67f80bfab260a1a33648cc82ae79a632815da7b	"AsNeeded(ｦﾓｾ・8ｓ・
 pickupsituation/99u
@@ -16147,7 +16240,7 @@ $ingameskin/tapeffect_tutorial/skin00@f7fa18a4ab88b3c704e6b7f70cc29616e9d2e2eea
 scenario/actionset/group390}
 scenario/actionset/group390@345ebc902bdd51077d276996325b04981bab76ee7cba4fa7aa67362d8faabdca	"StartApp(・8ｸ%・
 scenario/actionset/group40}
-scenario/actionset/group40@84653859d16b548f09bf63c38a7452ceb04d9b156f11bd1b3d3e4687ed9eae09	"StartApp(﨨梳8情・
+scenario/actionset/group40@e5ca6836b1d59ad3ebabae4055002eadb04d9b156f11bd1b3d3e4687ed9eae09	"StartApp(ﾍ・8ｺ・・
 scenario/actionset/group44|
 scenario/actionset/group44@9f6f98681e1dd58f61414ba82a78244dccf03da7355bc6ece6d9fa703d8c45b1	"StartApp(靤郞
 8ﾄ(・
@@ -16167,7 +16260,7 @@ $scenario/actionset_tutorial/group390@16a294a440f27f4ee243762f1f9205efcd7356594
 scenario/afterlivetalk/group4@dc6d619c51d0a4c8fefbad6d7ab3c6657301b364ef3fcacc633ebc7b55a3a1d7	"StartApp(ｻ｢ﾚｯ
 8聒｢
 scenario/afterlivetalk/group5
-scenario/afterlivetalk/group5@7c6f3fdf1f415bef0f4e9385af2250582f337260af7509adeace24f6f159f33f	"StartApp(鴒椣8・・
+scenario/afterlivetalk/group5@90493351203d87d6db2c60be10f02a662f337260af7509adeace24f6f159f33f	"StartApp(ｽ橇ｧ8･ﾓ・
 scenario/area_opening_story~
 scenario/area_opening_story@f7c89b507c25457ef68d0e4f2967b99da850cdfb6aab167caeb58c35c248720a	"AsNeeded(萸8ﾎ・・
 scenario/backstagestoryy
@@ -16206,7 +16299,9 @@ $scenario/actionset_tutorial/group390@16a294a440f27f4ee243762f1f9205efcd7356594
 scenario/effects/ako_kakkoii07・
 scenario/effects/ako_kakkoii07@244ef5e331970c6e2b3b692d6ac128a1586b96e8f8f68a2c42072e44c677aadd	"AsNeeded(ｲ邨・8ｲﾞ6､
 scenario/effects/ako_kakkoii08・
-scenario/effects/ako_kakkoii08@4f28d506c2d70e3494e90e383d4933a2b2056bd5793226ce0975f21404957efa	"AsNeeded(庭ﾄ8閠・ｨ
+scenario/effects/ako_kakkoii08@4f28d506c2d70e3494e90e383d4933a2b2056bd5793226ce0975f21404957efa	"AsNeeded(庭ﾄ8閠・ｰ
+$scenario/effects/bgchange_hydrangea1・
+$scenario/effects/bgchange_hydrangea1@251ae4efa9de95c15c77ceeae193befbcfe409e8431151dd8652b46bac44c768	"AsNeeded(ﾒｶ8｢ﾉｨ
  scenario/effects/bgchange_realev・
  scenario/effects/bgchange_realev@8252aa1f4d6cf0166e7c93edec9c4c47c41dd582989fe5c4d4b4b3de6597912a	"AsNeeded(ｿ総・8ｱ・ｪ
 !scenario/effects/bgchange_realev2・
@@ -16485,6 +16580,8 @@ $scenario/effects/nfo_invincible_kira@479b081ec9379285a09e5ae5329bc2abf8cf378d9
 scenario/eventstory/event115@a023f0078bf9c549850259d25a3fa839323fd3fe7cb39569332a313b9ffc1598	"AsNeeded(ﾉﾖﾇ・8ｺｵ・
 scenario/eventstory/event116
 scenario/eventstory/event116@6bc9bfe4ca5c39d25a6cbf46d04bf9bdd611089b1b8869e171c032689fa8684b	"AsNeeded(ﾉﾝ8↓・
+scenario/eventstory/event118
+scenario/eventstory/event118@80b5abb56f54f7eb88475d78c5c16297c082d3f282ef55c6de76bb3b83dea3f9	"AsNeeded(故ﾐ・8ﾚ･・
 scenario/eventstory/event12~
 scenario/eventstory/event12@6d0b1d826867eb8228e85ce123710341c7fa3b0de8e79e30e2873ec9a8b8edec	"AsNeeded(ﾍﾘ廻8ﾓｷ・
 scenario/eventstory/event13~
@@ -17336,7 +17433,11 @@ $sdchara_tutorial/model/s000_templete@ca0ee4f7060bfa6528cd0c5007cf0c88550bb57f8
 sound/bgm272@ff7e3d8b5a1d0c8666958b07b9a28a7bb740a87d431c6d148075f7688a8fc4fd	"AsNeeded(ﾈ､ｰｲ
 8ﾒﾔｼ
 sound/bgm273p
-sound/bgm273@bedb73c3b32db15170dbec54d740e7c4d1508ee092d3242cb34de61aabdd1905	"AsNeeded(筱｣ｬ	8ﾚ・
+sound/bgm273@bedb73c3b32db15170dbec54d740e7c4d1508ee092d3242cb34de61aabdd1905	"AsNeeded(筱｣ｬ	8ﾚ・
+sound/bgm274p
+sound/bgm274@f40d6ac4e575c40cd20e6c0c0c6ed9a6f448f8cd6036752cfd90ebd9c51823b7	"AsNeeded(ﾄﾈ牽8ﾉ
+sound/bgm278p
+sound/bgm278@bddc11ac94284f27df14d2e733504a34179f76b4503951eb301c73ef9a12f493	"AsNeeded(・・8ﾜ肉
 sound/commono
 sound/common@ab3e7d4cd3b0a8580c7f1a803181df83976046ccb221619c8fd6c9c66deeaabe	"StartApp(ｼ盒ﾙ8迩I・
 sound/common_tutorialx
@@ -17353,8 +17454,7 @@ $sdchara_tutorial/model/s000_templete@ca0ee4f7060bfa6528cd0c5007cf0c88550bb57f8
 sound/ingamecutin/combo13|
 sound/ingamecutin/combo13@50132c76cd82a53577b831180effd9d284a6d98099912ddec5c21a3cc7bc48d3	"StartApp(ｺｮ8ﾕｻ・
 sound/ingamecutin/combo14|
-sound/ingamecutin/combo14@0869281b956b430772ea89432731a8f6e90dc6ab619fd2fc28bac528e9fbf07d	"StartApp(戚ﾇ・
-8ﾓﾔ ・
+sound/ingamecutin/combo14@1387af609a54e0de444cd21fa747e114e90dc6ab619fd2fc28bac528e9fbf07d	"StartApp(送願8ｧｮ"・
 sound/ingamecutin/combo15|
 sound/ingamecutin/combo15@bba35588a08bc40e92537d31399f49dc6975f0ea8a13000d87614e6f86c48779	"StartApp(魵ﾃﾗ8弦・
 sound/ingamecutin/combo16|
@@ -17369,8 +17469,7 @@ $sdchara_tutorial/model/s000_templete@ca0ee4f7060bfa6528cd0c5007cf0c88550bb57f8
 sound/ingamecutin/combo2{
 sound/ingamecutin/combo2@5112235e9d7e399feb320ec43688d39a19434ff4ffd3bdeb6bab0c0deb816ff4	"StartApp(ﾚ菘ｼ8ﾍﾎ・
 sound/ingamecutin/combo20|
-sound/ingamecutin/combo20@3ed5626b4ac806d1769352716290957ba6dce2ba44a0de0e85940486c75d75de	"StartApp(ｯﾊﾟ・
-8ﾄﾛ・
+sound/ingamecutin/combo20@d90c35128adac9cb5f13e066388e2e01a6dce2ba44a0de0e85940486c75d75de	"StartApp(・8ｫ・・
 sound/ingamecutin/combo21|
 sound/ingamecutin/combo21@7dc7bc95bb1bd90585424a76754dcccef5e23dbf2e227186739d430c4a0aba4b	"StartApp(ﾘ郁ﾚ8飜・
 sound/ingamecutin/combo22|
@@ -17434,7 +17533,7 @@ $sdchara_tutorial/model/s000_templete@ca0ee4f7060bfa6528cd0c5007cf0c88550bb57f8
 sound/ingamecutin/skill13|
 sound/ingamecutin/skill13@b313bb2c5228defc11eb510a05221e58e33a7b3b03d35b05d348015ece8133fc	"StartApp(Τ跼8放 ・
 sound/ingamecutin/skill14|
-sound/ingamecutin/skill14@eb0735f8795249cf9ff8fa01252314516969295bf320c8abb311abcbad504391	"StartApp(ﾖｰﾁｴ8ｴ・・
+sound/ingamecutin/skill14@994e52c2e6cfd90fc947c010411df83d6969295bf320c8abb311abcbad504391	"StartApp(氣毖8ｰ#・
 sound/ingamecutin/skill15|
 sound/ingamecutin/skill15@d494b2720690913a44a5c74b9ad19531cef04776281a688451b4a19d5c3572aa	"StartApp(瓊8ﾁ・・
 sound/ingamecutin/skill16|
@@ -17448,7 +17547,8 @@ $sdchara_tutorial/model/s000_templete@ca0ee4f7060bfa6528cd0c5007cf0c88550bb57f8
 sound/ingamecutin/skill2{
 sound/ingamecutin/skill2@a2d879ab910a407c10ea611401a0cbd7d01913e83bbee1c7ff03dd6d67586e4e	"StartApp(湫瘡8憔・
 sound/ingamecutin/skill20|
-sound/ingamecutin/skill20@a14f40cb7c0a3f5728b8395a2a06dfca28f3e5db7013e2bee4534bb172a48dd2	"StartApp(ﾌ・・8ﾚ・・
+sound/ingamecutin/skill20@d11de00dafe7961e45e670a628dc587c28f3e5db7013e2bee4534bb172a48dd2	"StartApp(ﾍ供・
+8*・
 sound/ingamecutin/skill21|
 sound/ingamecutin/skill21@10b52e016d32c738154ef4364afa908b63b513103ce1c0d7c5fe2d3c0811d463	"StartApp(蜥8・
 sound/ingamecutin/skill22|
@@ -17610,7 +17710,9 @@ $sdchara_tutorial/model/s000_templete@ca0ee4f7060bfa6528cd0c5007cf0c88550bb57f8
 !sound/scenario/bgm/39_wadaiko_far@67940ba73a7c46daa7162f41bbfc6b713b292a89e951a1eddd2a4f3e844ec88a	"AsNeeded(ﾈﾏ・8ﾑ・ｴ
 &sound/scenario/bgm/40_ballroom_dancing・
 &sound/scenario/bgm/40_ballroom_dancing@1107778883ba3951bd3bdc97bd7e8ed51c00d4da26dcac633660d2f0e5e3b277	"AsNeeded(ﾇｶﾙ・
-8靄ｦ
+8靄ｬ
+"sound/scenario/bgm/41_rain_drizzle・
+"sound/scenario/bgm/41_rain_drizzle@78263190fbf4b31c3a777e6d68d03fe2bc7803404d16f32b08df3c68bb3e561e	"AsNeeded(｢龕・8搴ｦ
 sound/scenario/bgm/afterglow_01・
 sound/scenario/bgm/afterglow_01@ad7c31041c5f6fae13bff6360a835e1ac7bba60787b4caffc62d76e4e29bfce5	"AsNeeded(ﾓ・8ﾕ0ｲ
 %sound/scenario/bgm/afterglow_01_piano・
@@ -17826,6 +17928,8 @@ $sdchara_tutorial/model/s000_templete@ca0ee4f7060bfa6528cd0c5007cf0c88550bb57f8
 sound/se/event116@53c36184cf13e4915a13ae07974392097ecf7838bee52e36d6a59305c9dd29c1	"AsNeeded(ｩ條ﾆ8王・
 sound/se/event117t
 sound/se/event117@4ecfc8857dd6fa99416c867541fe06e92f4eb8645ec98d13e16b9a127b8ebccb	"AsNeeded(抬亞8寒・
+sound/se/event118s
+sound/se/event118@ea379480c281528392a5a0420b1f72a2ff7e9f1f521397e33dc777f34209a01f	"AsNeeded(・ｽ.8ﾕ・・
 sound/se/event14s
 sound/se/event14@82d8e42da07b4818299ef88bae14741b6a790d356f9eeb51ba5efa4616571cbd	"AsNeeded(ｨｲ・8ｦ・・
 sound/se/event19s
@@ -18046,8 +18150,7 @@ $sound/voice/backstage/talkset491-500@dd995c5ba4f30134b6efb8b03875f394b1e3295c6
 (sound/voice/backstage/talkset50001-50010・
 (sound/voice/backstage/talkset50001-50010@e9f81b2d3da9c3dcda1b6fffa94dc0b97c9c77c772e38a3038a5644126d9a84a	"AdditionalVoice(ﾃ猴・8ｴﾉHｿ
 (sound/voice/backstage/talkset50011-50020・
-(sound/voice/backstage/talkset50011-50020@c900e6759fb1d856097066beabfe42458839617debc1f7726d1c03e42f1fa451	"AdditionalVoice(･ｹﾏﾌ
-8・.ｷ
+(sound/voice/backstage/talkset50011-50020@56f5c722b1ff4392c7e83357b05717148839617debc1f7726d1c03e42f1fa451	"AdditionalVoice(ﾉ・8半>ｷ
 $sound/voice/backstage/talkset501-510・
 $sound/voice/backstage/talkset501-510@c0579f59102b4215969c25290f2f0bfa835219544c87beae3356a256c04ddb5d	"AdditionalVoice(囑ﾆﾟ	8狃6ｳ
 "sound/voice/backstage/talkset51-60・
@@ -18146,8 +18249,7 @@ $sound/voice/backstage/talkset631-640@a746d7765eb7946723b6d4c407e7ba7cbd7b50466
 0sound/voice/gacha/newsituationintroduction/voice@b8b5b8abb5b5b146b99ce408b361ef55d7065f40a8e631118623340f770fa22c	"AsNeeded(ﾛﾂﾘﾁ
 8ﾙ・・
 sound/voice/gacha/spinz
-sound/voice/gacha/spin@7d14e6a1b134db97a00c22155e98d49db56e253b62e602df4456306c9233d82b	"StartApp(ｦ・
-8ﾟｶｪ
+sound/voice/gacha/spin@dfe25da62b4c6d14bfe0467bca80b5e4b56e253b62e602df4456306c9233d82b	"StartApp(淦ﾑ・8槻ｪ
 !sound/voice/ingame/fullcombovoice・
 !sound/voice/ingame/fullcombovoice@438da833de79b49fe021313db6e05823b86fb694873a45e256fe11decb455341	"StartApp(∈ﾂｴ8ｱ｢
 sound/voice/ingame/startvoice
@@ -18388,7 +18490,8 @@ $sound/voice/backstage/talkset631-640@a746d7765eb7946723b6d4c407e7ba7cbd7b50466
 +sound/voice/scenario/actionset/actionset510@9d5dbfc5b8e08882bd0fb153ae3fb150d8de7a8948f0a074331b853ed5f23954	"AdditionalVoice(ﾞｲ8ｱｫﾖ
 ﾆ
 +sound/voice/scenario/actionset/actionset520・
-+sound/voice/scenario/actionset/actionset520@c6f12a80da9ef21142fa955ac8e0412f46c867a72c3466b1aa5bdfc6b3056341	"AdditionalVoice(ﾉﾘ	8塚ｺ
++sound/voice/scenario/actionset/actionset520@38bd99a0d1629cf4f03c3586a019d50546c867a72c3466b1aa5bdfc6b3056341	"AdditionalVoice(・樰
+8ﾆ・ｺ
 )sound/voice/scenario/afterlivetalk/group0・
 )sound/voice/scenario/afterlivetalk/group0@77f90c0911708c3c854e1ab48a05b4cfbbb3f67ec4be436ea59e2523e916f29d	"AsNeeded(ｼ8ｽ倖ｻ
 )sound/voice/scenario/afterlivetalk/group1・
@@ -18402,8 +18505,7 @@ $sound/voice/backstage/talkset631-640@a746d7765eb7946723b6d4c407e7ba7cbd7b50466
 *sound/voice/scenario/afterlivetalk/group13・
 *sound/voice/scenario/afterlivetalk/group13@11f7cac4436d02f70730e472d084016a97a307e8d27131727655a480d8d4946f	"AsNeeded(ﾗ磊8・ｼ
 *sound/voice/scenario/afterlivetalk/group14・
-*sound/voice/scenario/afterlivetalk/group14@a876740b334a352301f06a6090d506aa6f4ec990a33dc73a43fe424838d6163b	"AsNeeded(塞ﾉﾔ
-8夭"ｻ
+*sound/voice/scenario/afterlivetalk/group14@1641ae84df6cceafca6620f6270e1dc16f4ec990a33dc73a43fe424838d6163b	"AsNeeded(ｪ萃・8ｶ・ｻ
 )sound/voice/scenario/afterlivetalk/group2・
 )sound/voice/scenario/afterlivetalk/group2@04c75d2bb4052300d146593897e837804d874f9b303ca925bb639993f32d5c86	"AsNeeded(ﾔ邃・
 8剴ｻ
@@ -19384,7 +19486,21 @@ $sound/voice/scenario/eventstory116_4@970669d58bbae1b4418b81a973f12851c87d5579c
 $sound/voice/scenario/eventstory116_5・
 $sound/voice/scenario/eventstory116_5@c871b5ba270c0f4e695aa8ee2785072e4b21e520cf794ab55e1f4412842970e3	"AsNeeded(別ｵ・8ｧ]ｰ
 $sound/voice/scenario/eventstory116_6・
-$sound/voice/scenario/eventstory116_6@e55fe9e147a9afcc62914d1af090b4eeea0b5303431638ca3e90dd8fb2496e2e	"AsNeeded(・ﾈﾋ8ﾆｱDｮ
+$sound/voice/scenario/eventstory116_6@e55fe9e147a9afcc62914d1af090b4eeea0b5303431638ca3e90dd8fb2496e2e	"AsNeeded(・ﾈﾋ8ﾆｱDｰ
+$sound/voice/scenario/eventstory118_0・
+$sound/voice/scenario/eventstory118_0@daa0da78220af52438d0dc1c8009f34279d34504e8b8a5a707ceee758d9b30d8	"AsNeeded(叶ｰｾ8ｵｰ
+$sound/voice/scenario/eventstory118_1・
+$sound/voice/scenario/eventstory118_1@3d637eaa24b12fcde3b0e4388009a039129fff6131306093cd8c6e11efe06d79	"AsNeeded(ｼ遐・8ﾒﾐcｰ
+$sound/voice/scenario/eventstory118_2・
+$sound/voice/scenario/eventstory118_2@0878e30562ddff7a93c1da38b6ff288d767a77f1bdea1f60d1fb82f67c946032	"AsNeeded(飯籃	8㈹cｰ
+$sound/voice/scenario/eventstory118_3・
+$sound/voice/scenario/eventstory118_3@96ba049b86118507eecba4f463af2ba38005691e3c1ffb3f1115d2f86571b759	"AsNeeded(ﾈｪ・8ﾚﾈ_ｰ
+$sound/voice/scenario/eventstory118_4・
+$sound/voice/scenario/eventstory118_4@fe0fed4e2b6e5b69f5f56281a28615f21a0a9c9fc7336ef432770deb53e06337	"AsNeeded(ﾗｰﾖｩ8・Qｰ
+$sound/voice/scenario/eventstory118_5・
+$sound/voice/scenario/eventstory118_5@9fa7d8e93335fd8c4fba7ecf1e2a4181861d8d1bf7c436d3515509174a6d31a7	"AsNeeded(爬竏8ｨ・ｰ
+$sound/voice/scenario/eventstory118_6・
+$sound/voice/scenario/eventstory118_6@8a5404e85b055e8d5a830da7c8c8d85ab31c9bb7339e8e708a861294bb6061a2	"AsNeeded(ﾝ叙・8Cｮ
 #sound/voice/scenario/eventstory11_0・
 #sound/voice/scenario/eventstory11_0@8f37ba7b67d6c455845fe519ca1d1cba6fd9b8ee853c8731992ba18e371fe6b6	"AsNeeded(ｾ嵎ｬ8箸:ｮ
 #sound/voice/scenario/eventstory11_1・
@@ -21257,6 +21373,8 @@ $sound/voice/scenario/eventstory43_14@e389a82a9215b0e3ca652254489c28e89ba0263c2
 *sound/voice/scenario/resourceset/res004032@9b895fd506ffdee90ed5e130d403b4ab7b8c2abc593bd3bd4bac44e36a6e7e17	"AsNeeded(｡霳｢8棡hｽ
 *sound/voice/scenario/resourceset/res004033・
 *sound/voice/scenario/resourceset/res004033@5fd2332915032a95a09e11477e3e59849a8de0b513d20a90db86025bb49c2f63	"AsNeeded(ﾏﾓ減8・・ｼ
+*sound/voice/scenario/resourceset/res004035・
+*sound/voice/scenario/resourceset/res004035@8236ab432567f88cf7aaa726623945e45395d298dc00b8e405b88e0ff9b9c602	"AsNeeded(ｳｲﾘｳ8ﾑ兎ｼ
 *sound/voice/scenario/resourceset/res005001・
 *sound/voice/scenario/resourceset/res005001@6194fc266ba429b515df89abe50e6a862c543bb103ad202867201507e3d9605f	"AsNeeded(抬・
 8舗/ｼ
@@ -21506,6 +21624,8 @@ $sound/voice/scenario/eventstory43_14@e389a82a9215b0e3ca652254489c28e89ba0263c2
 *sound/voice/scenario/resourceset/res008039・
 *sound/voice/scenario/resourceset/res008039@f634d0ceaa3b48aab35c82999aaa884913bb2a4dc72273179610f0f0ce6b4179	"AsNeeded(削麿
 8ﾀ・ｼ
+*sound/voice/scenario/resourceset/res008040・
+*sound/voice/scenario/resourceset/res008040@29ba573a9caa8587ea7eb62b82bd16796a03cb71905bbd70d65bf7998d9b4254	"AsNeeded(㏍・8ﾜｼ
 *sound/voice/scenario/resourceset/res009001・
 *sound/voice/scenario/resourceset/res009001@ebf29ed185df79ec09cd9ebb53783e593ea0fd589006b5749a1f14636e40e582	"AsNeeded(ﾆﾃ荳
 8鬥?ｼ
@@ -21872,6 +21992,8 @@ $sound/voice/scenario/eventstory43_14@e389a82a9215b0e3ca652254489c28e89ba0263c2
 *sound/voice/scenario/resourceset/res014039@c77db435af007275fc4b5f55f9b8b1e17e42ef7ef755495f3b56a052e9b3729f	"AsNeeded(雛牙8ｮﾒ・ｼ
 *sound/voice/scenario/resourceset/res014040・
 *sound/voice/scenario/resourceset/res014040@df3a479f08eea86ca4169757ca6bd8ddb94d12d73c26d0b501af933d4c80f9ee	"AsNeeded(ﾚﾏ・8萩aｼ
+*sound/voice/scenario/resourceset/res014041・
+*sound/voice/scenario/resourceset/res014041@7eccf1564c2fd6786bb73ecf0715235d249e52fbeca25f4f443b5d742b435071	"AsNeeded(ﾓ帑8荘qｼ
 *sound/voice/scenario/resourceset/res015001・
 *sound/voice/scenario/resourceset/res015001@35f2ee02d018929d4c78e86c0bd16f822445ef832f4ebcc2261e451ad50c6448	"AsNeeded(・8捺=ｼ
 *sound/voice/scenario/resourceset/res015002・
@@ -22122,6 +22244,8 @@ $sound/voice/scenario/eventstory43_14@e389a82a9215b0e3ca652254489c28e89ba0263c2
 *sound/voice/scenario/resourceset/res018037@a9900f2c9e305308cddae521ff99265298833b007e2332a4ae176aa426d6d401	"AsNeeded(ﾃｫ8ｴ・ｽ
 *sound/voice/scenario/resourceset/res018038・
 *sound/voice/scenario/resourceset/res018038@61c3fca29eaac3c1c951cddd3e3ecf8cd62a23d273bb37e043273fca7cc4737c	"AsNeeded(ﾁﾋｻｴ8ｼ闃ｼ
+*sound/voice/scenario/resourceset/res018039・
+*sound/voice/scenario/resourceset/res018039@7fb26534180e624ab0fb425d110ef2cb1169291f8d452153ce73285c315b79aa	"AsNeeded(鳩8ﾖ宿ｼ
 *sound/voice/scenario/resourceset/res019001・
 *sound/voice/scenario/resourceset/res019001@7079d6b9442dbedd7b11648db55b9dca14c040bc15c4479d24363b795ac306e0	"AsNeeded(ｧ・・8ｶ・ｼ
 *sound/voice/scenario/resourceset/res019002・
@@ -22243,6 +22367,8 @@ $sound/voice/scenario/eventstory43_14@e389a82a9215b0e3ca652254489c28e89ba0263c2
 *sound/voice/scenario/resourceset/res020040@6b606f6b346a86f9e9352267407037673ea0dd11b959ded33d312fb706652cfa	"AsNeeded(ﾏ8ゆlｼ
 *sound/voice/scenario/resourceset/res020042・
 *sound/voice/scenario/resourceset/res020042@d7ee0d85eb5be0134682ed3d35c652397ffc95bae0670919b6ad1ffeb29b4b74	"AsNeeded(ﾋｽ歯8uｼ
+*sound/voice/scenario/resourceset/res020043・
+*sound/voice/scenario/resourceset/res020043@4de1a4e2e059e5278042155e2bad81fa46a540aac9894595fbd0548eb5d2769d	"AsNeeded(档鈑8閾oｼ
 *sound/voice/scenario/resourceset/res021001・
 *sound/voice/scenario/resourceset/res021001@21dfa93cde8577562f3990d9fa982475d0489298cd4483c671f037f36c405b91	"AsNeeded(柀鞴8ﾙ・ｼ
 *sound/voice/scenario/resourceset/res021002・
@@ -22748,12 +22874,12 @@ $sound/voice/scenario/eventstory43_14@e389a82a9215b0e3ca652254489c28e89ba0263c2
 specialtraining/effectz
 specialtraining/effect@7d4b772f4418a7f161b31e835f18dbdae7a20dff29cee187706ce62240e92d4a	"StartApp(ｷﾔﾍ8ﾃｭx
 stamp/01l
-stamp/01@d1178ff351beb6a15499fe8b7be1a5b4b4177963bd21045df2aff8a399646f87	"StartApp(・ﾑ｣
-8ｺ|
+stamp/01@705633ae05195767ff0ac1a2b7cb3affb4177963bd21045df2aff8a399646f87	"StartApp(ﾙｨｵ・
+8駁ｼ|
 
 stampatlasn
 
-stampatlas@c767eef6f3d629c238ff5f2b2a614c8f57be9051b50df4d4c764dbd496577275	"StartApp(ﾊ浚・8ｷｩ・・
+stampatlas@deb9e72c26b9b8d41a7e0a0bc1c53ad357be9051b50df4d4c764dbd496577275	"StartApp(｡ｬ鈼	8ｱｽ・
 starshop/garupapassv
 starshop/garupapass@c5a1ad7e8d135be61e4a975d78bb4bc76ee6006ac561653509864400bb69dafb	"StartApp(暹ｦｪ8ｦ・・
 starshop/itemset/037w
@@ -22801,7 +22927,7 @@ $starshop/premiumpass/premiumhappybox@5a8af06e4ed9a6e02311021837ad3eadc724a8650
 story/banner/bandt
 story/banner/band@67b486ba5422739749298229f145aabe74ab531b492014f640c2efb2cde1726e	"AsNeeded(ｾﾐｵﾉ8袱#・
 story/banner/memorialy
-story/banner/memorial@89072bd8269efcc2d7ae3811dfc31f6bc108e6210bcbada2528e7713c8e60857	"AsNeeded(ｾｴ旧8烙・・
+story/banner/memorial@6d65c80aaa6dee76120db5004e1dad21c108e6210bcbada2528e7713c8e60857	"AsNeeded(ﾞ巾ｽ8磐・・
 story/bg/background000y
 story/bg/background000@2bc786e471736ce1ec8f62508b34eb25a97f5c78982387a7a99eb8088d55b377	"StartApp(ﾈ价・8ｿｫ・
 story/bg/background001y
@@ -22915,7 +23041,10 @@ $starshop/premiumpass/premiumhappybox@5a8af06e4ed9a6e02311021837ad3eadc724a8650
 story/bg/background049y
 story/bg/background049@27eff571b0c79615965b7b984550ce5f4a7148cfad535cf5b220f53e8bc09485	"StartApp(嵩ﾟｴ8ｹ・・
 story/bg/background050y
-story/bg/background050@d111cd1fc8bb9e7f0d38a0e1e2c6d89c1508bde79b8caa7cb111696d12077f8e	"StartApp(ｭｯﾋ・8･ﾚ・
+story/bg/background050@528be16be5b2af27ce168e17094cf0e61508bde79b8caa7cb111696d12077f8e	"StartApp(飼蟲8・
+・
+story/bg/background051y
+story/bg/background051@efb110f1431605c1848d4e4be999b4a7bcda20c3ea576625a0cc38226e15d1ce	"StartApp(滸ｼｹ8	・
 story/bg/background052y
 story/bg/background052@1670619cc06dd4021637d54358f8cc7dac5b6c32186c7b923f670997155de06b	"StartApp(ｫﾎ飼8匂ｦ
 story/bg/background_tutorial002・
@@ -23716,7 +23845,23 @@ $starshop/premiumpass/premiumhappybox@5a8af06e4ed9a6e02311021837ad3eadc724a8650
 story/bg/event/eventstory117_8・
 story/bg/event/eventstory117_8@4f736e5348f7231a95195494a18bd3f15c78ba336cc2baba133ce7eb55d73a09	"AsNeeded(ｫ杉8､
 story/bg/event/eventstory117_9・
-story/bg/event/eventstory117_9@ff38db12d6f1cd4dbedd674dd96a856d113f80bbb5c16f975389f5a3817042dd	"AsNeeded(蝣玳8ｧﾀ｢
+story/bg/event/eventstory117_9@ff38db12d6f1cd4dbedd674dd96a856d113f80bbb5c16f975389f5a3817042dd	"AsNeeded(蝣玳8ｧﾀ､
+story/bg/event/eventstory118_0・
+story/bg/event/eventstory118_0@3bd5f9337d6c2966c38260a5bb03c1f46a2ba4e4eff3eb9bb33d19012ab452c1	"AsNeeded(・8碑､
+story/bg/event/eventstory118_1・
+story/bg/event/eventstory118_1@7afb35db40dedac381b718b8f676771a65713f904061e658611ccfc7bff60091	"AsNeeded(閠・8ﾝｰ､
+story/bg/event/eventstory118_2・
+story/bg/event/eventstory118_2@7936af500f3e697ed4514589dac0976f5712f8b4d00b37184553d50dd9f76a58	"AsNeeded(ｳﾉｯｲ8ｶｽ､
+story/bg/event/eventstory118_3・
+story/bg/event/eventstory118_3@ff6504d95e90f52a72829996350c0a631775e3f867a777355f2df12567cc6ff7	"AsNeeded(萬莚
+8ｴ・､
+story/bg/event/eventstory118_4・
+story/bg/event/eventstory118_4@69ff461d620920b00910e0e217a2d7e4098bb529ccf62ad02bb2bd63e6224bfe	"AsNeeded(・・
+8ﾃ・､
+story/bg/event/eventstory118_5・
+story/bg/event/eventstory118_5@e73745fa5265b9e5becfedfc61840693aae1c23d664cb507edf9800813f898e7	"AsNeeded(ﾏｮ・8♂､
+story/bg/event/eventstory118_6・
+story/bg/event/eventstory118_6@3556e24305499c12ddd494f455ed572f0d5f6f7d968a65be3c84be82f26faf36	"AsNeeded(ﾛ・8ﾕ・｢
 story/bg/event/eventstory11_0
 story/bg/event/eventstory11_0@28dedf1fb9c27aa12514cc6bf7e538ecb628a70175b266f19218d28b99d4f62e	"AsNeeded(樔ｱﾕ8ﾓ・｢
 story/bg/event/eventstory11_1
@@ -25425,7 +25570,7 @@ $starshop/premiumpass/premiumhappybox@5a8af06e4ed9a6e02311021837ad3eadc724a8650
 thumb/chara/card00018@646149b39cef69de547ad3cb44ad4361e22ad32dfd55535aeca243a80207e847	"StartApp(煢橢
 8ｼ・・
 thumb/chara/card00019x
-thumb/chara/card00019@38e3504bffe42e080034b620ac1d7b1065625cf8f25f0d334fcd76e72748eacd	"StartApp(ﾖﾇ｢ｭ8ｩｱ[・
+thumb/chara/card00019@98b9c6e8409cad11a882287c540ce04265625cf8f25f0d334fcd76e72748eacd	"StartApp(ﾕ･ｫ・8ｨq・
 thumb/chara/card_tutorial|
 thumb/chara/card_tutorial@20bb021363489dcd2ce776c076cf3f5857c688417497917f4ff36838ec19986d	"Tutorial(・･・8茉
 thumb/commono
@@ -25455,7 +25600,7 @@ $starshop/premiumpass/premiumhappybox@5a8af06e4ed9a6e02311021837ad3eadc724a8650
 thumb/costume/group17x
 thumb/costume/group17@4a7502070d96aed7701f203575d985c609d2cbb269c316fb023f0bc9f6c5c23d	"StartApp(寰鹿8ﾎ・・
 thumb/costume/group18x
-thumb/costume/group18@5089e64b1787526570d45a07357f059245c23360c91a320d1868f6284753b386	"StartApp(・・8ｫ・・
+thumb/costume/group18@7a1a6bbd14b030909332430fd2028a6045c23360c91a320d1868f6284753b386	"StartApp(ｮ水・8・
 thumb/costume/group2w
 thumb/costume/group2@9109c793f35ae2634491cf40a6a4a129eaa22cbf1d9e30f284826c0d30474df4	"StartApp(ﾂｱ・8粤2・
 thumb/costume/group3w
@@ -25482,7 +25627,7 @@ $starshop/premiumpass/premiumhappybox@5a8af06e4ed9a6e02311021837ad3eadc724a8650
 thumb/deco/pins@969a15c2a3064be7747ffe5183109a210e1f650ff1fe429368d23d2f8685426a	"StartApp(､ｱｹ・
 8∞
 thumb/degreep
-thumb/degree@e78b419de065a0b819cfc982d8defaed648c817e9312e03f87482718238ba937	"StartApp(煦㊨8ｕ・
+thumb/degree@ed5aa688dde14b81965c03b01c75c26e648c817e9312e03f87482718238ba937	"StartApp(ﾕ・・8・・
 thumb/eventbadges
 thumb/eventbadge@61fc43df20305208e1d214123c793648302a37176595477e17bf40120992fccf	"StartApp(愎・8ｿｴ・
 thumb/liveskinlaneu
@@ -25646,6 +25791,8 @@ title/default@86434ccaa0110a6f45428039348b5f546a823286149bf229e93987ae9ff8e00a
 title/event_116@2e895664cba09f18e17754a5a38c479d46048b90d7392523ee30ad603ebbf921	"AsNeeded(ﾖﾂ台8竇m・
 title/event_117r
 title/event_117@49463206680a3adcb58d6cfea03f5fd6131d56b5c18cf5dbf76233c0f7f2be4a	"AsNeeded(ﾋﾃ音8ｭﾄd・
+title/event_118r
+title/event_118@e0f881496d2b58b53e9839ba5fbdfdbd9e7c19d1fe57795ac477b27dd72100c6	"AsNeeded(･・8ﾌﾄs・
 title/event_95r
 title/event_95@80b25f035f6624dc773588375715eea95c489e6eb02749c05a312576518e471b	"AsNeeded(都8ｲﾋﾎ・
 title/event_96r

@@ -18,12 +18,12 @@
  "aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197",
  "assetbundleinfomap":
   {
-   "data":"false",
+   "data":"true",
    "file":
     {
      "name":"AssetBundleInfo.txt",
-     "ver":"4.3.0.300",
-     "date":"2020/06/19"
+     "ver":"4.3.0.550",
+     "date":"2020/06/24"
     }
   },
  "backup":[

@@ -1,4 +1,4 @@
-{"0":{"kousin":"2020/06/12"},"1":{
+{"0":{"kousin":"2020/06/22"},"1":{
     "loginBonusId":1, "loginBonusType":"normal", "caption":"通常ログインボーナス", "publishedAt":0, "closedAt":4133948399000, "details":[
       {
         "loginBonusId":1, "days":1, "resourceType":"coin", "quantity":10000, "seq":1, "grantType":"present"
@@ -5198,6 +5198,29 @@
       },
       {
         "loginBonusId":238, "days":1, "resourceType":"practice_ticket", "resourceId":36, "quantity":1, "seq":2, "grantType":"direct"
+      }
+    ],
+    "assetMap":[
+
+    ]
+  },
+  "239":{
+    "loginBonusId":239, "loginBonusType":"birthday", "caption":"イヴ誕生日", "assetBundleName":"eve_2020", "publishedAt":1593183600000, "closedAt":1593269999000, "details":[
+      {
+        "loginBonusId":239, "days":1, "resourceType":"star", "quantity":50, "seq":1, "grantType":"direct"
+      },
+      {
+        "loginBonusId":239, "days":1, "resourceType":"practice_ticket", "resourceId":28, "quantity":1, "seq":2, "grantType":"direct"
+      }
+    ],
+    "assetMap":[
+
+    ]
+  },
+  "242":{
+    "loginBonusId":242, "loginBonusType":"event", "caption":"「Breakthrough!」発売記念", "assetBundleName":"breakthrough_release", "publishedAt":1592978400000, "closedAt":1593237599000, "details":[
+      {
+        "loginBonusId":242, "days":1, "resourceType":"star", "quantity":100, "seq":1, "grantType":"present"
       }
     ],
     "assetMap":[

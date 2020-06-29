@@ -9,12 +9,12 @@
  "appapdateinfo":"【アップデート内容】<br>・新バンド「RAISE A SUILEN」がアプリ内に登場<br>・「RAISE A SUILEN」の追加に伴う、一部画面表示の調整<br>・「RAISE A SUILEN」の追加に伴う、エリアアイテムの設置個所の名称変更<br>・「RAISE A SUILEN」の追加に伴う、エリアアイテムを設置した際のダイアログの一部文言調整<br>・近日中に一時的に公開を予定している新機能の公開準備<br>・イベントストーリー内にてMorfonicaのバンドストーリー選択時に表示される背景画像の画質調整<br><br>【機能改善】<br>・iPhone SE（第2世代）を対象に「タップ時振動」機能の対応<br><br>【不具合修正】<br>・細かな不具合の解消<br><br>※詳しくは、アプリ内のお知らせをご覧ください",
  "appapdateversion":"N/A",
  "appapdatedate":"",
- "assetbundleinfoversion":"4.3.0.500",
- "assetbundleinfodate":"2020/06/22",
- "masterversion":"4.3.0.500",
- "masterdate":"2020/06/22",
- "dataversion":"4.3.0.500",
- "datadate":"2020/06/22",
+ "assetbundleinfoversion":"4.3.0.550",
+ "assetbundleinfodate":"2020/06/24",
+ "masterversion":"4.3.0.550",
+ "masterdate":"2020/06/24",
+ "dataversion":"4.3.0.550",
+ "datadate":"2020/06/24",
  "aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197",
  "assetbundleinfomap":
   {
@@ -27,6 +27,7 @@
     }
   },
  "backup":[
+  {"assetbundleinfoversion":"4.3.0.500","assetbundleinfodate":"2020/06/22","masterversion":"4.3.0.500","masterdate":"2020/06/22","dataversion":"4.3.0.500","datadate":"2020/06/22","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/24","backuptype":1},
   {"assetbundleinfoversion":"4.3.0.400","assetbundleinfodate":"2020/06/20","masterversion":"4.3.0.400","masterdate":"2020/06/20","dataversion":"4.3.0.400","datadate":"2020/06/20","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/22","backuptype":1},
   {"assetbundleinfoversion":"4.3.0.300","assetbundleinfodate":"2020/06/19","masterversion":"4.3.0.300","masterdate":"2020/06/19","dataversion":"4.3.0.300","datadate":"2020/06/19","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/20","backuptype":1},
   {"assetbundleinfoversion":"4.3.0.250","assetbundleinfodate":"2020/06/15","masterversion":"4.3.0.250","masterdate":"2020/06/15","dataversion":"4.3.0.250","datadate":"2020/06/15","aski":"b887c2f6c9eb9ae3d609e06642689fe463abaa9c53248dfb066e0e8142dda197","backupdate":"2020/06/19","backuptype":1},

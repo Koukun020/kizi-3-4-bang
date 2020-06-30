@@ -1,4 +1,4 @@
-{"0":{"kousin":"2020/06/22"},"1":{
+{"0":{"kousin":"2020/06/30"},"1":{
     "loginBonusId":1, "loginBonusType":"normal", "caption":"通常ログインボーナス", "publishedAt":0, "closedAt":4133948399000, "details":[
       {
         "loginBonusId":1, "days":1, "resourceType":"coin", "quantity":10000, "seq":1, "grantType":"present"
@@ -5217,10 +5217,81 @@
 
     ]
   },
+  "240":{
+    "loginBonusId":240, "loginBonusType":"event", "caption":"コラボ開催記念「ゲコ太のパーカー」&アイテム", "assetBundleName":"coin_costume", "publishedAt":1593496800000, "closedAt":1594447199000, "details":[
+      {
+        "loginBonusId":240, "days":1, "resourceType":"costume", "resourceId":927, "quantity":1, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":240, "days":1, "resourceType":"item", "resourceId":13, "quantity":50, "seq":2, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":240, "days":1, "resourceName":"coin_collabo_kinen", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":1, "costumeBundleName":"001_event_119_story_01", "serif":"今日も一日がんばろう！", "voiceBundleName":"sound/voice/loginbonus/coin", "voice":"coinLoginBonus_001_1", "motion":"gattsu01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
+  },
+  "241":{
+    "loginBonusId":241, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーン", "assetBundleName":"coin_kinen", "publishedAt":1593496800000, "closedAt":1595311199000, "details":[
+      {
+        "loginBonusId":241, "days":1, "resourceType":"star", "quantity":1000, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":2, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":3, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":4, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":5, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":6, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":7, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":8, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":9, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":10, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":241, "days":11, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":[
+
+    ]
+  },
   "242":{
     "loginBonusId":242, "loginBonusType":"event", "caption":"「Breakthrough!」発売記念", "assetBundleName":"breakthrough_release", "publishedAt":1592978400000, "closedAt":1593237599000, "details":[
       {
         "loginBonusId":242, "days":1, "resourceType":"star", "quantity":100, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":[
+
+    ]
+  },
+  "243":{
+    "loginBonusId":243, "loginBonusType":"birthday", "caption":"あこ誕生日", "assetBundleName":"ako_2020", "publishedAt":1593702000000, "closedAt":1593788399000, "details":[
+      {
+        "loginBonusId":243, "days":1, "resourceType":"star", "quantity":50, "seq":1, "grantType":"direct"
+      },
+      {
+        "loginBonusId":243, "days":1, "resourceType":"practice_ticket", "resourceId":32, "quantity":1, "seq":2, "grantType":"direct"
       }
     ],
     "assetMap":[

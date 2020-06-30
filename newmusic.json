@@ -1,25 +1,19 @@
 {
- "newmusiccount":3,
+ "newmusiccount":2,
  "data":[
   {
-   "musicid":"273",
+   "musicid":"275",
    "newflag":1,
-   "start":1592546400,
-   "end":1593496799
+   "start":1593496800,
+   "end":1593755999
   },
   {
-   "musicid":"274",
+   "musicid":"276",
    "newflag":1,
-   "start":1592632800,
-   "end":1593496799
-  },
-  {
-   "musicid":"278",
-   "newflag":1,
-   "start":1592978400,
-   "end":1593496799
+   "start":1593496800,
+   "end":1593755999
   }
  ],
- "time":1592978400,
- "timescreen":"2020/06/24 15:00"
+ "time":1593496800,
+ "timescreen":"2020/06/30 15:00"
 }

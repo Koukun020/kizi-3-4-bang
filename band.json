@@ -1,0 +1,74 @@
+{
+    "1":{
+    "bandId":1, "bandName":"Poppin'Party", "resourceId":1, "color":"ffffff", "leader":1, "member1":2, "member2":3, "member3":4, "member4":5, "seq":1, "bandType":"normal", "introductions":"花咲川女子学園で結成されたガールズバンド！","firstbgmId":"001"
+  },
+  "2":{
+    "bandId":2, "bandName":"Afterglow", "resourceId":2, "color":"ffffff", "leader":6, "member1":7, "member2":8, "member3":9, "member4":10, "seq":2, "bandType":"normal", "introductions":"幼馴染5人が奏でる王道ガールズロック！","firstbgmId":"011"
+  },
+  "3":{
+    "bandId":3, "bandName":"ハロー、ハッピーワールド！", "resourceId":3, "color":"ffffff", "leader":11, "member1":12, "member2":13, "member3":14, "member4":15, "seq":5, "bandType":"normal", "introductions":"ハッピー！ラッキー！スマイル！イエーイ！！","firstbgmId":"020"
+  },
+  "4":{
+    "bandId":4, "bandName":"Pastel＊Palettes", "resourceId":4, "color":"ffffff", "leader":16, "member1":17, "member2":18, "member3":19, "member4":20, "seq":3, "bandType":"normal", "introductions":"事務所の意向で生まれたアイドルバンド！？","firstbgmId":"018"
+  },
+  "5":{
+    "bandId":5, "bandName":"Roselia", "resourceId":5, "color":"ffffff", "leader":21, "member1":22, "member2":23, "member3":24, "member4":25, "seq":4, "bandType":"normal", "introductions":"高い技術を持つ本格派ユニット！","firstbgmId":"009"
+  },
+  "6":{
+    "bandId":6, "bandName":"Glitter*Green", "resourceId":6, "seq":6, "bandType":"irregular","firstbgmId":"041"
+  },
+  "7":{
+    "bandId":7, "bandName":"香澄×Afterglow", "resourceId":7, "seq":7, "bandType":"irregular","firstbgmId":"049"
+  },
+  "8":{
+    "bandId":8, "bandName":"Poppin'Party×グリグリ", "resourceId":8, "seq":8, "bandType":"irregular","firstbgmId":"048"
+  },
+  "9":{
+    "bandId":9, "bandName":"戸山香澄", "resourceId":9, "seq":9, "bandType":"irregular","firstbgmId":"051"
+  },
+  "10":{
+    "bandId":10, "bandName":"花園たえ", "resourceId":10, "seq":10, "bandType":"irregular","firstbgmId":"057"
+  },
+  "11":{
+    "bandId":11, "bandName":"牛込りみ", "resourceId":11, "seq":11, "bandType":"irregular","firstbgmId":"058"
+  },
+  "12":{
+    "bandId":12, "bandName":"山吹沙綾", "resourceId":12, "seq":12, "bandType":"irregular","firstbgmId":"074"
+  },
+  "13":{
+    "bandId":13, "bandName":"市ヶ谷有咲", "resourceId":13, "seq":13, "bandType":"irregular","firstbgmId":"080"
+  },
+  "14":{
+    "bandId":14, "bandName":"GBP!スペシャルバンド", "resourceId":14, "seq":14, "bandType":"irregular","firstbgmId":"090"
+  },
+  "15":{
+    "bandId":15, "bandName":"ハロハピ×蘭×彩", "resourceId":14, "seq":15, "bandType":"irregular","firstbgmId":108
+  },
+  "16":{
+    "bandId":16, "bandName":"香澄×蘭×彩×友希那×こころ", "resourceId":16, "seq":16, "bandType":"irregular","firstbgmId":131
+  },
+  "17":{
+    "bandId":17, "bandName":"彩×モカ×リサ×花音×つぐみ", "resourceId":17, "seq":17, "bandType":"irregular","firstbgmId":147
+  },
+  "18":{
+    "bandId":18, "bandName":"RAISE A SUILEN", "resourceId":18, "color":"ffffff", "leader":31, "member1":32, "member2":33, "member3":34, "member4":35, "seq":18, "bandType":"normal", "introductions":"チュチュが作った『最強の音楽を奏でる最強のバンド』。大ガールズバンド時代を切り拓くと豪語するだけあって、楽曲の完成度は非常に高い。", "phonetic":"レイズアスイレン"
+  },
+  "19":{
+    "bandId":19, "bandName":"Roselia×蘭", "resourceId":19, "seq":19, "bandType":"irregular","firstbgmId":178
+  },
+  "20":{
+    "bandId":20, "bandName":"Poppin'Party×彩×こころ", "resourceId":20, "seq":20, "bandType":"irregular","firstbgmId":179
+  },
+  "21":{
+    "bandId":21, "bandName":"Morfonica", "resourceId":21, "color":"ffffff", "leader":26, "member1":27, "member2":28, "member3":29, "member4":30, "seq":21, "bandType":"normal", "introductions":"名門のお嬢様学校・月ノ森女子学園の１年生達で結成したガールズバンド。いつか自分達のステージで輝く景色に辿り着くため一生懸命活動中。","firstbgmId":255
+  },
+  "22":{
+    "bandId":22, "bandName":"Poppin'Party×友希那", "resourceId":22, "color":"ffffff", "leader":210, "member1":211, "member2":212, "member3":301, "member4":302, "seq":22, "bandType":"irregular", "introductions":"Poppin'Party×友希那紹介文","firstbgmId":236
+  },
+  "23":{
+    "bandId":23, "bandName":"Afterglow×こころ", "resourceId":23, "color":"ffffff", "leader":210, "member1":211, "member2":212, "member3":301, "member4":302, "seq":23, "bandType":"irregular", "introductions":"Afterglow×こころ紹介文","firstbgmId":237
+  },
+  "24":{
+    "bandId":24, "bandName":"コラボレーション", "resourceId":24, "color":"ffffff", "leader":210, "member1":211, "member2":212, "member3":301, "member4":302, "seq":24, "bandType":"irregular", "introductions":"紹介文"
+  }
+}
